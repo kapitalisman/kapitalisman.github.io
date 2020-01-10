@@ -23,8 +23,8 @@ email: sam.oosterveer@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Mijn quest naar passief inkomen en een financieel vrij leven.
   
-baseurl: "/site" # the subpath of your site, e.g. /blog
-url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://kapitalisman.nl" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kapitalisman
 github_username:  kapitalisman
 
