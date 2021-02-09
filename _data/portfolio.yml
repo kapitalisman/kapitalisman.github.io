@@ -1,0 +1,29 @@
+- title: Stap 1
+  category: Buffer
+  image: /assets/images/portfolio/buffer.jpg
+  link: /stap-1/
+
+- title: Stap 2
+  category: Schulden
+  image: /assets/images/portfolio/schulden.jpg
+  link: /stap-2/
+
+- title: Stap 3
+  category: Pensioen
+  image: /assets/images/portfolio/pensioen.jpg
+  link: /stap-3/
+
+- title: Stap 4
+  category: Beleggen
+  image: /assets/images/portfolio/beleggen.jpg
+  link: /stap-4/
+
+- title: Stap 5
+  category: Woning
+  image: /assets/images/portfolio/woning.jpg
+  link: /stap-5/
+
+- title: Stap 6
+  category: Rijkdom
+  image: /assets/images/portfolio/rijkdom.jpg
+  link: /stap-6/
