@@ -1,10 +1,10 @@
 // data
-var values = [2289.40, 2336.00, 2162.18, 2174.50, 2324.22];
+var values = [2014.67, 1027.84, 2018.03, 2000.54, 2045.31];
 var ticker = ['AFL', 'HRL', 'T', 'CVX', 'SNA'];
 
 // define upper and lower bound
-var portfolio = 50000;
-var upper = 0.04 * portfolio;
+var portfolio = 9106.39;
+var upper = 0.05 * portfolio;
 var lower = 0.02 * portfolio;
 
 // define function to format financial numbers

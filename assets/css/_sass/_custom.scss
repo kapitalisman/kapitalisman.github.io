@@ -1,6 +1,29 @@
 /* Add your own style here */
 
 .btn-danger {
-  background-color: #ff585f;
-  border-color: #ff585f;
+    background-color: #ff585f;
+    border-color: #ff585f;
+}
+
+.blog-list {
+    list-style: none;
+    padding-left: 0;
+}
+
+.blog-list li {
+    position: relative;
+    padding-left: 20px;
+}
+
+.blog-list li:before {
+    content: '';
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    background-image: url('../images/bullet.png');
+    background-size: cover;
+    background-position: center;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
 }
