@@ -44,6 +44,8 @@ In de grafiek is te zien dat elk aandeel nu ongeveer 22% vertegenwoordigt, uitge
 </div>
 <script src="{{site.baseurl}}/assets/js/charts/2021-02-02-script.js"></script>
 
+Hierna volgt een toelichting per aandeel.
+
 ## Toelichting
 
 **Aflac** is een levens- en zorgverzekeraar die actief is in de Verenigde Staten en Japan. Het dividend beslaat circa 27% van de winst. De rest van de winst gebruikt Aflac voornamelijk om eigen aandelen terug te kopen. Hierdoor stijgt de winst per aandeel en kan ook het dividend verder verhoogd worden. Dat laatste doet Aflac al 39 jaar en de meest recente verhoging was maar liefst 17.9%.

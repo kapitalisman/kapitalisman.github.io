@@ -47,12 +47,14 @@ Als ik een aandeel als meer risicovol beschouw of als het aandeel niet sterk ond
 | T. Rowe Price      | TROW   | 6      | $164.47 |
 | Vistra             | VST    | 118    |  $17.37 |
 
-Mijn portefeuille omvat nu meer dan twintig verschillende aandelen. Elk aandeel vertegenwoordigt nu een veel kleiner deel van de totale portefeuille. Die spreiding is ook goed te zien in de grafiek. Chevron (+15.0%), Snap-On (+9.2%) en Aflac (+4.6%) zijn in februari flink in waarde gestegen. Deze aandelen vertegenwoordigen hierdoor op dit moment een groter deel van de portefeuille.
+Mijn portefeuille omvat nu meer dan twintig verschillende aandelen. Elk aandeel vertegenwoordigt een veel kleiner deel van de totale portefeuille. Die spreiding is ook goed te zien in de grafiek. Chevron (+15.0%), Snap-On (+9.2%) en Aflac (+4.6%) zijn in februari flink in waarde gestegen. Deze aandelen vertegenwoordigen hierdoor op dit moment een groter deel van de portefeuille.
 
 <div class="chart-wrapper">
     <canvas id="weights" width="400" height="200" align="left">Deze grafiek wordt door jouw browser niet ondersteund.</canvas>
 </div>
 <script src="{{site.baseurl}}/assets/js/charts/2021-03-02-script.js"></script>
+
+Hierna volgt een toelichting per aandeel.
 
 ## Toelichting
 
@@ -96,7 +98,7 @@ Mijn portefeuille omvat nu meer dan twintig verschillende aandelen. Elk aandeel 
   <li>Aantal jaar dividendgroei: 9</li>
 </ul>
 
-**Iron Mountain** houdt zich bezig met de opslag en bescherming van informatie en bedrijfsmiddelen. Dat doet het wereldwijd in meer dan 50 landen. Het is veel meer dan alleen een archief voor documenten. Zo worden er bijvoorbeeld ook kunstwerken of originele opnames van beroemde artiesten bewaard. De groei van het bedrijf zit vooral in het segment datacenters, waarvan er zich een in Amsterdam bevindt. Die groei is deels organisch en zo helpt Iron Mountain niet alleen zichzelf, maar ook zijn bestaande klanten bij de digitale transformatie. Ondertussen verschaft de documentopslag deze REIT voldoende inkomsten om aandeelhouders een hoog dividendrendement te laten genieten.
+**Iron Mountain** houdt zich bezig met de opslag en bescherming van informatie en bedrijfsmiddelen. Dat doet het wereldwijd in meer dan 50 landen. Het is veel meer dan alleen een archief voor documenten. Zo worden er bijvoorbeeld ook kunstwerken of originele opnames van beroemde artiesten bewaard. De groei van het bedrijf zit vooral in het segment datacenters, waarvan er zich een in Amsterdam bevindt. Die groei is deels organisch en zo helpt Iron Mountain niet alleen zichzelf, maar ook zijn bestaande klanten bij de digitale transformatie. Ondertussen verschaft de documentopslag deze REIT voldoende inkomsten om aandeelhouders van een hoog dividendrendement te voorzien.
 
 <ul class="blog-list">
   <li>Jaarlijks dividend: $71.75</li>
@@ -168,7 +170,7 @@ Mijn portefeuille omvat nu meer dan twintig verschillende aandelen. Elk aandeel 
   <li>Aantal jaar dividendgroei: 36</li>
 </ul>
 
-**T. Rowe Price** is een aandeel uit de financiële sector. Deze vermogensbeheerder levert diensten aan particulieren, institutionele beleggers en pensioenregelingen. Dat doet het middels beleggingsfondsen in zakelijke waarden (aandelen) en vastrentende waarden (obligaties). Het bedrijf is wereldwijd actief en heeft ook een kantoor in Amsterdam. T. Rowe Price betaalt een snelgroeiend dividend: vorige maand nog werd het dividend met exact 20% verhoogd.
+**T. Rowe Price** is een aandeel uit de financiële sector. Deze vermogensbeheerder levert diensten aan particulieren, institutionele beleggers en pensioenregelingen. Dat doet het middels beleggingsfondsen in zakelijke en vastrentende waarden. Het bedrijf is wereldwijd actief en heeft ook een kantoor in Amsterdam. T. Rowe Price betaalt een snelgroeiend dividend: vorige maand nog werd het dividend met exact 20% verhoogd.
 
 <ul class="blog-list">
   <li>Jaarlijks dividend: $25.92</li>
@@ -176,7 +178,7 @@ Mijn portefeuille omvat nu meer dan twintig verschillende aandelen. Elk aandeel 
   <li>Aantal jaar dividendgroei: 35</li>
 </ul>
 
-**Vistra** is het laatste maar zeker niet minste aandeel van deze maand. Dit nutsbedrijf levert electriciteit en aardgas aan huishoudens en bedrijven. Vistra is vorige maand in de problemen gekomen door [extreem winterweer](https://tinyurl.com/nos-texas-winterstorm){:target="_blank"} in de staat Texas. Als gevolg daarvan heeft het aandeel vrijdag, ondanks de aangekondigde dividend verhoging en het aandeleninkoopprogramma, een kwart van zijn waarde verloren. Dat is wat mij betreft een overdreven reactie van de markt en ik heb die kans aangegrepen om het aandeel op te nemen in mijn portefeuille.
+**Vistra** is het laatste maar zeker niet minste aandeel van deze maand. Dit nutsbedrijf levert electriciteit en aardgas aan huishoudens en bedrijven. Vistra is vorige maand in de problemen gekomen door [extreem winterweer](https://tinyurl.com/nos-texas-winterstorm){:target="_blank"} in de staat Texas. Als gevolg daarvan heeft het aandeel vrijdag, ondanks de aangekondigde dividend verhoging, een kwart van zijn waarde verloren. Dat is wat mij betreft een overdreven reactie van de markt en ik heb die kans aangegrepen om het aandeel op te nemen in mijn portefeuille.
 
 <ul class="blog-list">
   <li>Jaarlijks dividend: $70.80</li>
@@ -186,13 +188,13 @@ Mijn portefeuille omvat nu meer dan twintig verschillende aandelen. Elk aandeel 
 
 ## Samenvatting
 
-Begin februari heb ik vijf dividend aandelen gekocht. Daarmee is de geboorte van de portefeuille een feit. De eerste dividend betalingen van Aflac, Chevron en Snap-On kan ik in maart verwachten. Het jaarlijks te verwachten dividend is nu $398.04 en het dividendrendement op kosten 4.37%.
+Begin maart heb ik zestien nieuwe dividend aandelen gekocht en een positie uitgebreid. De portefeuille begint nu vorm te krijgen. De eerste dividend betalingen kan ik in maart verwachten. Het jaarlijks te verwachten dividend is nu $1,124.55 en het dividendrendement op kosten 3.71%.
 
-Tot slot geef ik een overzicht van de kasstromen begin februari:
+Tot slot geef ik een overzicht van de kasstromen begin maart:
 
 <ul class="blog-list">
   <li>Beschikbaar kapitaal: $30,888.61</li>
-  <li>Inleg: $1000.00</li>
+  <li>Inleg: $1,000.00</li>
   <li>Ontvangen dividend (februari): $0.00</li>
   <li>Deze maand geïnvesteerd: $21,224.35</li>
   <li>Resterend kapitaal: $10,664.26</li>
