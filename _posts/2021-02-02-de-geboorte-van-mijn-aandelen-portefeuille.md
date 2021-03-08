@@ -11,7 +11,7 @@ layout: post
 
 Dit blog gaat over het opbouwen en behouden van vermogen. Mijn strategie voor het opbouwen van vermogen is gericht op dividendaandelen. Dat zijn aandelen in bedrijven die periodiek een deel van de winst uitkeren aan hun aandeelhouders, waaronder ik dus. Bekende bedrijven die dit doen zijn bijvoorbeeld Coca-Cola, Microsoft en Pfizer.
 
-Dit blog doet onder andere verslag van het reilen en zeilen van mijn portefeuille. Verwacht dus maandelijks een update over de prestaties van de portefeuille en eventuele aan- en verkopen. In beginsel doe ik mijn aankopen op de eerste handelsdag van de maand en vandaag heb ik mijn eerste vijf dividendaandelen gekocht. Dit artikel gaat dus over de geboorte van mijn aandelen portefeuille.
+Dit blog doet onder andere verslag van het reilen en zeilen van mijn portefeuille. Verwacht dus maandelijks een update over de prestaties van de portefeuille en eventuele aan- en verkopen. In beginsel doe ik mijn aankopen op de eerste handelsdag van de maand en gisteren heb ik mijn eerste vijf dividendaandelen gekocht. Dit artikel gaat dus over de geboorte van mijn aandelen portefeuille.
 
 ## Het kapitaal
 

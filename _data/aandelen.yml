@@ -1,0 +1,63 @@
+- name: Abbvie
+  image: /assets/images/aandelen/ABBV.png
+  
+- name: Aflac
+  image: /assets/images/aandelen/AFL.png
+  
+- name: Amgen
+  image: /assets/images/aandelen/AMGN.png
+  
+- name: American Tower
+  image: /assets/images/aandelen/AMT.png
+  
+- name: Chevron
+  image: /assets/images/aandelen/CVX.png
+  
+- name: Home Depot
+  image: /assets/images/aandelen/HD.png
+  
+- name: Huntington Ingalls
+  image: /assets/images/aandelen/HII.png
+  
+- name: Hormel Foods
+  image: /assets/images/aandelen/HRL.png
+  
+- name: Iron Mountain
+  image: /assets/images/aandelen/IRM.png
+  
+- name: Kimberly Clark
+  image: /assets/images/aandelen/KMB.png
+  
+- name: L3Harris
+  image: /assets/images/aandelen/LHX.png
+  
+- name: Lockheed Martin
+  image: /assets/images/aandelen/LMT.png
+  
+- name: Merck
+  image: /assets/images/aandelen/MRK.png
+  
+- name: Oneok
+  image: /assets/images/aandelen/OKE.png
+  
+- name: Omnicom Group
+  image: /assets/images/aandelen/OMC.png
+  
+- name: PepsiCo
+  image: /assets/images/aandelen/PEP.png
+  
+- name: Silgan Holdings
+  image: /assets/images/aandelen/SLGN.png
+  
+- name: Snap-On
+  image: /assets/images/aandelen/SNA.png
+  
+- name: AT&T
+  image: /assets/images/aandelen/T.png
+  
+- name: T.Rowe Price
+  image: /assets/images/aandelen/TROW.png
+  
+- name: Vistra
+  image: /assets/images/aandelen/VST.png
+  
