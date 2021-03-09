@@ -13,11 +13,9 @@ Dit blog gaat over het opbouwen en behouden van vermogen. Mijn strategie voor he
 
 Dit blog doet onder andere verslag van het reilen en zeilen van mijn portefeuille. Verwacht dus maandelijks een update over de prestaties van de portefeuille en eventuele aan- en verkopen. In beginsel doe ik mijn aankopen op de eerste handelsdag van de maand en gisteren heb ik maar liefst zestien nieuwe dividendaandelen gekocht. Dit artikel gaat dus over de uitbreiding van mijn aandelen portefeuille.
 
-## Recap
+## Update
 
-Ik ben begonnen met $40,000 aan beschikbaar kapitaal. Daar was eind vorige maand afgerond nog $30,889 van over. Met een deel van dit kapitaal heb ik zestien nieuwe dividendaandelen gekocht en een bestaande positie uitgebreid. Door mijn aankopen te spreiden voorkom ik enigszins dat ik precies op het verkeerde moment instap.
-
-De portefeuille is in februari met $502,42 in waarde gestegen, wat zich vertaalt in een rendement van 5.51%. In dezelfde maand steeg de S&P 500 index van 3,714.24 naar 3,811.15, een toename van 2.61%.
+Ik ben begonnen met $40,000 aan beschikbaar kapitaal. Daar was eind vorige maand afgerond nog $30,889 van over. De portefeuille is in februari met $502,42 in waarde gestegen, wat zich vertaalt in een rendement van 5.51%. Ter vergelijking: in dezelfde maand steeg de S&P 500 index van 3,714.24 naar 3,811.15, een toename van 2.61%.
 
 Er is in februari nog geen dividend ontvangen.
 
@@ -58,7 +56,7 @@ Hierna volgt een toelichting per aandeel.
 
 ## Toelichting
 
-**AbbVie** is een biotech bedrijf en ontwikkelaar van farmaceutische producten. Deze worden over de hele wereld verkocht. Het belangrijkste product is op dit moment Humira, een ontstekingsremmer. De werkzame stof onderdrukt afweerreacties van het lichaam. De inkomsten van het medicijn bedragen circa 40% van [de totale omzet](https://tinyurl.com/abbvie-2020-results){:target="_blank"}. Het verlopen van de patenten is dan ook het belangrijkste risico.
+**AbbVie** is een biotech bedrijf en ontwikkelaar van farmaceutische producten. Deze worden over de hele wereld verkocht. Het belangrijkste product is op dit moment Humira, een ontstekingsremmer. De werkzame stof onderdrukt afweerreacties van het lichaam. De inkomsten van het medicijn bedragen in 2020 circa 40% van de totale omzet. Het verlopen van de patenten is dan ook het belangrijkste risico.
 
 <ul class="blog-list">
   <li>Jaarlijks dividend: $26.00</li>
@@ -114,7 +112,7 @@ Hierna volgt een toelichting per aandeel.
   <li>Aantal jaar dividendgroei: 49</li>
 </ul>
 
-**L3Harris** en **Lockheed Martin** zijn beide defensie aandelen. Waar L3Harris zich vooral richt op technologische oplossingen ten aanzien van intelligence, houdt Lockheed Martin zich bezig met het ontwerpen en bouwen van onder andere gevechtsvliegtuigen en luchtafweersystemen. Daarnaast heeft laatstgenoemde ook een ruimte segment gericht op het maken van satellieten en ruimtevaartuigen voor overheden en commerciële klanten.
+**L3Harris** en **Lockheed Martin** zijn beide defensie aandelen. Waar L3Harris zich vooral richt op technologische oplossingen ten aanzien van intelligence, houdt Lockheed Martin zich bezig met het ontwerpen en bouwen van onder andere gevechtsvliegtuigen en luchtafweersystemen. Daarnaast heeft laatstgenoemde ook een ruimte segment gericht op het maken van satellieten en ruimtevaartuigen voor overheden en commerciële klanten. L3Harris kondigde eind februari een dividendverhoging van 20% aan.
 
 <ul class="blog-list">
   <li>Jaarlijks dividend: $24.48 / $62.40</li>
@@ -122,7 +120,7 @@ Hierna volgt een toelichting per aandeel.
   <li>Aantal jaar dividendgroei: 19 / 19</li>
 </ul>
 
-**Merck** is een farmaceutisch bedrijf en onder andere actief op de gebieden oncologie, vaccins en stofwisselingsziekten, zoals diabetes. Merck is er zelf niet in geslaagd een COVID-19 vaccin te ontwikkelen, maar kondigde vandaag aan Johnson & Johnson bij de productie van het Janssen-vaccin te ondersteunen. Zowel de winst als het dividend is de laatste twee jaar bovengemiddeld hard gegroeid, terwijl de koers niet of nauwelijks is gestegen. Het aandeel lijkt nu dus ondergewaardeerd.
+**Merck** is een farmaceutisch bedrijf en onder andere actief op de gebieden oncologie, vaccins en stofwisselingsziekten, waaronder diabetes. Merck is er zelf niet in geslaagd een COVID-19 vaccin te ontwikkelen, maar [kondigde vandaag aan](https://tinyurl.com/merck-helps-jnj){target="_blank"} Johnson & Johnson bij de productie van het Janssen-vaccin te ondersteunen. Zowel de winst als het dividend is de laatste twee jaar bovengemiddeld hard gegroeid, terwijl de koers niet of nauwelijks is gestegen. Het aandeel lijkt nu dus ondergewaardeerd.
 
 <ul class="blog-list">
   <li>Jaarlijks dividend: $36.40</li>
@@ -154,7 +152,7 @@ Hierna volgt een toelichting per aandeel.
   <li>Aantal jaar dividendgroei: 49</li>
 </ul>
 
-**Silgan Holdings** maakt verpakkingen voor consumptiegoederen van blik en plastic, inclusief sluitingen (doppen en deksels). Het dividendrendement is relatief laag, maar het bedrijf keert slechts 15% van de winst uit als dividend. Ik verwacht dan ook een behoorlijke dividendgroei de komende jaren.	Hoewel het bedrijf in 2020 een hoge groei heeft laten zien, is er ook meer schuld aangegaan. Dit is een risico en daarom zal een deel van de vrije kasstroom moeten worden gebruikt om schulden af te lossen, waardoor er minder middelen overblijven voor het uitbetalen van dividend.
+**Silgan Holdings** maakt verpakkingen voor consumptiegoederen van blik en plastic. Daarnaast is er een segment dat zich uitsluitend richt op sluitingen (doppen). Het dividendrendement is relatief laag, maar het bedrijf keert slechts 15% van de winst uit. Ik verwacht dan ook meer dividendverhogingen de komende jaren.	Hoewel het bedrijf in 2020 een stevige groei heeft laten zien, is er ook meer schuld aangegaan. Dit is een risico en daarom zal een deel van de vrije kasstroom moeten worden gebruikt om schulden af te lossen, waardoor er minder middelen overblijven voor het uitbetalen van dividend.
 
 <ul class="blog-list">
   <li>Jaarlijks dividend: $29.68</li>
@@ -162,7 +160,7 @@ Hierna volgt een toelichting per aandeel.
   <li>Aantal jaar dividendgroei: 17</li>
 </ul>
 
-**AT&T** is in februari met 3.3% in waarde afgenomen. Dit bood de mogelijkheid om de positie uit te breiden met 36 aandelen en zo de gemiddelde aankoopprijs te verlagen. Ik bezit nu meer dan 100 aandelen en kan daarmee gedekte call opties schrijven om op die manier extra inkomsten te genereren. Dat brengt alleen ook het risico met zich mee dat de aandelen verkocht worden tegen de vooarf gestelde uitoefenprijs.
+**AT&T** is in februari met 3.3% in waarde afgenomen. Dit bood de mogelijkheid om de positie uit te breiden met 36 aandelen en zo de gemiddelde aankoopprijs te verlagen. Ik bezit nu meer dan 100 aandelen en kan daarmee gedekte call opties schrijven om op die manier extra inkomsten te genereren. Dat brengt alleen ook het risico met zich mee dat de aandelen verkocht worden tegen de vooraf gestelde uitoefenprijs.
 
 <ul class="blog-list">
   <li>Jaarlijks dividend: $74.88</li>
@@ -188,7 +186,7 @@ Hierna volgt een toelichting per aandeel.
 
 ## Samenvatting
 
-Begin maart heb ik zestien nieuwe dividend aandelen gekocht en een positie uitgebreid. De portefeuille begint nu vorm te krijgen. De eerste dividend betalingen kan ik in maart verwachten. Het jaarlijks te verwachten dividend is nu $1,124.55 en het dividendrendement op kosten 3.71%.
+Begin maart heb ik zestien nieuwe dividend aandelen gekocht en een positie uitgebreid. De portefeuille begint nu vorm te krijgen. De eerste dividend betalingen kan ik deze maand verwachten. Het jaarlijks te verwachten dividend is nu $1,124.55 en het dividendrendement op kosten 3.71%.
 
 Tot slot geef ik een overzicht van de kasstromen begin maart:
 
