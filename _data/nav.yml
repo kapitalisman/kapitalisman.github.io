@@ -4,8 +4,8 @@
 - title: About
   link: '/about/'
   
-#- title: Contact
-#  link: '/contact/'
+- title: Goals
+  link: '/goals/'
   
 - title: Blog
   link: '/blog/'
