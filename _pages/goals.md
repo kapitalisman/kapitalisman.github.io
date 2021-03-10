@@ -24,3 +24,8 @@ description: Doelstellingen op jaarbasis.
 
 ---
 
+### 2020
+
+- [ ] Aantal verschillende aandelen: 25
+- [x] ~~Maandelijkse inleg: $1,000~~
+- [ ] Verwacht jaarlijks dividend inkomen: $2,000
