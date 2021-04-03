@@ -4,11 +4,17 @@
 - name: Aflac
   image: /assets/images/aandelen/AFL.png
   
+- name: Allstate
+  image: /assets/images/aandelen/ALL.png
+  
 - name: Amgen
   image: /assets/images/aandelen/AMGN.png
   
 - name: American Tower
   image: /assets/images/aandelen/AMT.png
+  
+- name: EOG Resources
+  image: /assets/images/aandelen/EOG.png
   
 - name: Chevron
   image: /assets/images/aandelen/CVX.png
@@ -43,6 +49,9 @@
 - name: Omnicom Group
   image: /assets/images/aandelen/OMC.png
   
+- name: Oracle
+  image: /assets/images/aandelen/ORCL.png
+  
 - name: PepsiCo
   image: /assets/images/aandelen/PEP.png
   
@@ -57,6 +66,9 @@
   
 - name: T.Rowe Price
   image: /assets/images/aandelen/TROW.png
+  
+- name: UGI
+  image: /assets/images/aandelen/UGI.png
   
 - name: Vistra
   image: /assets/images/aandelen/VST.png

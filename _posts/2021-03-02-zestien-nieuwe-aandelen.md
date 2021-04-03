@@ -120,7 +120,7 @@ Hierna volgt een toelichting per aandeel.
   <li>Aantal jaar dividendgroei: 19 / 19</li>
 </ul>
 
-**Merck** is een farmaceutisch bedrijf en onder andere actief op de gebieden oncologie, vaccins en stofwisselingsziekten, waaronder diabetes. Merck is er zelf niet in geslaagd een COVID-19 vaccin te ontwikkelen, maar [kondigde vandaag aan](https://tinyurl.com/merck-helps-jnj){target="_blank"} Johnson & Johnson bij de productie van het Janssen-vaccin te ondersteunen. Zowel de winst als het dividend is de laatste twee jaar bovengemiddeld hard gegroeid, terwijl de koers niet of nauwelijks is gestegen. Het aandeel lijkt nu dus ondergewaardeerd.
+**Merck** is een farmaceutisch bedrijf en onder andere actief op de gebieden oncologie, vaccins en stofwisselingsziekten, waaronder diabetes. Merck is er zelf niet in geslaagd een COVID-19 vaccin te ontwikkelen, maar [kondigde vandaag aan](https://tinyurl.com/merck-helps-jnj){:target="_blank"} Johnson & Johnson bij de productie van het Janssen-vaccin te ondersteunen. Zowel de winst als het dividend is de laatste twee jaar bovengemiddeld hard gegroeid, terwijl de koers niet of nauwelijks is gestegen. Het aandeel lijkt nu dus ondergewaardeerd.
 
 <ul class="blog-list">
   <li>Jaarlijks dividend: $36.40</li>
@@ -186,7 +186,7 @@ Hierna volgt een toelichting per aandeel.
 
 ## Samenvatting
 
-Begin maart heb ik zestien nieuwe dividend aandelen gekocht en een positie uitgebreid. De portefeuille begint nu vorm te krijgen. De eerste dividend betalingen kan ik deze maand verwachten. Het jaarlijks te verwachten dividend is nu $1,124.55 en het dividendrendement op kosten 3.71%.
+Begin maart heb ik zestien nieuwe dividend aandelen gekocht en een positie uitgebreid. De portefeuille begint nu vorm te krijgen. De eerste dividend betalingen kan ik deze maand verwachten. Het jaarlijks te verwachten dividend is nu $1,124.55 en het dividendrendement op kosten 3.71% (was 4.37%).
 
 Tot slot geef ik een overzicht van de kasstromen begin maart:
 

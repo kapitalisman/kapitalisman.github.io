@@ -70,7 +70,7 @@ var options = {
                 let sum = context.dataset.data.reduce(function(acc, val) {
                     return acc + val;
                 }, 0);
-                return (value * 100 / sum).toFixed(1) + '%';
+                return (value * 100 / sum).toFixed(0) + '%';
             }
         }
     }

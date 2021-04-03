@@ -1,9 +1,9 @@
 // data
-var values = [2014.67, 1027.84, 2018.03, 2000.54, 2045.31];
-var ticker = ['AFL', 'HRL', 'T', 'CVX', 'SNA'];
+var values = [1085.85, 2251.92, 2239.29, 1195.30, 2410.17, 2442.00, 1235.10, 1051.16, 1073.29, 1112.40, 1216.08, 2217.00, 2086.63, 607.92, 593.20, 1131.60, 2227.59, 2538.14, 3208.62, 1029.60, 2086.24, 2078.10, 2028.32, 2042.12, 2008.41];
+var ticker = ['ABBV', 'AFL', 'AMGN', 'AMT', 'CVX', 'HD', 'HII', 'HRL', 'IRM', 'KMB', 'LHX', 'LMT', 'MRK', 'OKE', 'OMC', 'PEP', 'SLGN', 'SNA', 'T', 'TROW', 'VST', 'ALL', 'EOG', 'ORCL', 'UGI'];
 
 // define upper and lower bound
-var portfolio = 9106.39;
+var portfolio = 43196.05;
 var upper = 0.05 * portfolio;
 var lower = 0.02 * portfolio;
 

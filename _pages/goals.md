@@ -14,9 +14,9 @@ description: Doelstellingen op jaarbasis.
 	<h3>2021</h3>
     <p><small>
 		<ul class="blog-list">
-			<li>Aantal verschillende aandelen: 25 ⌚</li>
-			<li><strike>Maandelijkse inleg: $1,000</strike> ✅</li>
-			<li>Verwacht jaarlijks dividend inkomen: $2,000 ❌</li>
+			<li><s>Aantal verschillende aandelen: 25</s> ✅</li>
+			<li>Maandelijkse inleg: $1,000 ⌚</li>
+			<li>Verwacht jaarlijks dividend inkomen: $2,000 ⌚</li>
 		</ul>
     </small></p>
   </div>
@@ -24,3 +24,6 @@ description: Doelstellingen op jaarbasis.
 
 ---
 
+<!--
+❌
+-->

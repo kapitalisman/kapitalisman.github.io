@@ -27,3 +27,40 @@
     top: 50%;
     transform: translateY(-50%);
 }
+
+.blog-list table {
+  font-family: monospace;
+  border: none;
+  cellspacing: 3;
+  margin: 0;
+  border-collapse: separate;
+  width: auto;
+  padding: 0;
+}
+
+.blog-list table tr {
+  border-top: none;
+  background-color: white;
+  margin: 0;
+  padding: 0;
+}
+
+.blog-list table tr:nth-child(2n) {
+  background-color: white;
+}
+
+.blog-list table tr td {
+  border: none;
+  text-align: right;
+  margin: 0;
+  padding: 0;
+}
+
+.blog-list table tr td :first-child {
+  margin: 0;
+}
+
+.blog-list table td:first-child {
+  text-align: left;
+}
+
