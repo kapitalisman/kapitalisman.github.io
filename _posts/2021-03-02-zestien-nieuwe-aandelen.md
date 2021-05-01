@@ -15,7 +15,7 @@ Dit blog doet onder andere verslag van het reilen en zeilen van mijn portefeuill
 
 ## Update
 
-Ik ben begonnen met $40,000 aan beschikbaar kapitaal. Daar was eind vorige maand afgerond nog $30,889 van over. De portefeuille is in februari met $502,42 in waarde gestegen, wat zich vertaalt in een rendement van 5.51%. Ter vergelijking: in dezelfde maand steeg de S&P 500 index van 3,714.24 naar 3,811.15, een toename van 2.61%.
+Ik ben begonnen met $40,000 aan beschikbaar kapitaal. Daar was eind vorige maand afgerond nog $32,389 van over. De portefeuille is in februari met $502,42 in waarde gestegen, wat zich vertaalt in een rendement van 5.51%. Ter vergelijking: in dezelfde maand steeg de S&P 500 index van 3,714.24 naar 3,811.15, een toename van 2.61%.
 
 Er is in februari nog geen dividend ontvangen.
 
@@ -191,11 +191,11 @@ Begin maart heb ik zestien nieuwe dividend aandelen gekocht en een positie uitge
 Tot slot geef ik een overzicht van de kasstromen begin maart:
 
 <ul class="blog-list">
-  <li>Beschikbaar kapitaal: $30,888.61</li>
-  <li>Inleg: $1,000.00</li>
+  <li>Beschikbaar kapitaal: $32,388.61</li>
+  <li>Inleg: $1,500.00</li>
   <li>Ontvangen dividend (februari): $0.00</li>
   <li>Deze maand geïnvesteerd: $21,224.35</li>
-  <li>Resterend kapitaal: $10,664.26</li>
+  <li>Resterend kapitaal: $12,664.26</li>
 </ul>
 
 Er is nu in totaal $30,335.74 geïnvesteerd, waarvan $0.00 herbelegd dividend. De portefeuille bestaat uit 21 aandelen met een marktwaarde van $30,831.42. In februari werd een rendement behaald van 5,51%.

@@ -96,10 +96,10 @@ Tot slot geef ik een overzicht van de kasstromen begin februari:
 
 <ul class="blog-list">
   <li>Beschikbaar kapitaal: $40,000.00</li>
-  <li>Inleg: $0.00</li>
+  <li>Inleg: $1500.00</li>
   <li>Ontvangen dividend (januari): $0.00</li>
   <li>Deze maand geïnvesteerd: $9,111.39</li>
-  <li>Resterend kapitaal: $30,888.61</li>
+  <li>Resterend kapitaal: $32,388.61</li>
 </ul>
 
 Er is nu in totaal $9,111.39 geïnvesteerd, waarvan $0.00 herbelegd dividend. De portefeuille bestaat uit 5 aandelen met een marktwaarde van $9,106.39. Er is nog geen rendement gemaakt.
