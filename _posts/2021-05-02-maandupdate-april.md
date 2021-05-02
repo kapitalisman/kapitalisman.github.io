@@ -65,7 +65,7 @@ Deze maand heb ik de helft van mijn positie in **Home Depot** verkocht. Het aand
   </table>
 </div>
 
-Ik heb in totaal een winst gemaakt van 25.2% op het oorspronkelijk geïnvesteerde bedrag: een rendement (IR) van 294.2% op jaarbasis. Door 4 aandelen te verkopen daalt het jaarlijks te verwachten dividend van de portefeuille met $6.60.
+Ik heb in totaal een winst gemaakt van 25.2% op het oorspronkelijk geïnvesteerde bedrag: een rendement (IR) van 294.2% op jaarbasis. Door 4 aandelen te verkopen daalt het jaarlijks te verwachten dividend van de portefeuille met $26.40.
 
 ## Aankopen
 
