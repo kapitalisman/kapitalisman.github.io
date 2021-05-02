@@ -90,7 +90,7 @@ Hierna volgt een toelichting per aandeel.
 
 ## Toelichting
 
-**ConAgra Brands**
+**ConAgra Brands** verkoopt verpakte consumptiegoederen middels twee aan marktaandeel winnende onderdelen. Grocery & Snacks biedt voornamelijk houdbare voedingsproducten aan, terwijl Refrigerated & Frozen gekoelde en bevroren voedingsproducten levert. Ik heb een halve positie ingenomen, omdat het dividendbeleid nog engiszins onzeker is. Afgelopen jaar groeide het dividend weliswaar met 29.4%, maar daarvoor was het voor langere tijd stabiel.
 
 <ul class="blog-list">
   <li>Jaarlijks dividend: $30.80</li>
@@ -98,7 +98,7 @@ Hierna volgt een toelichting per aandeel.
   <li>Aantal jaar dividendgroei: 1</li>
 </ul>
 
-**KeyBank**
+**KeyBank** is een grote regionale bank in Cleveland, Ohio. Het dividend is halverwege 2018 flink verhoogd (41.7%), maar de prijs is anno 2021 nog steeds rond het $20 niveau. Dit maakt het dividendrendement momenteel erg aantrekkelijk. Bovendien is het dividend pas de helft van wat het was voor de bankencrisis in 2008, dus er zit ook nog voldoende groei in.
 
 <ul class="blog-list">
   <li>Jaarlijks dividend: $34.04</li>
@@ -106,7 +106,7 @@ Hierna volgt een toelichting per aandeel.
   <li>Aantal jaar dividendgroei: 10</li>
 </ul>
 
-**Pinnacle West**
+**Pinnacle West** is een nutsbedrijf in Arizona. Het bedrijf houdt zich bezig met het genereren, transporteren en distribueren van elektriciteit voor ongeveer 1.3 miljoen klanten. De combinatie van 4% dividend met 6% groei maakt dit een mooi defensief aandeel voor de langere termijn.
 
 <ul class="blog-list">
   <li>Jaarlijks dividend: $83.00</li>
@@ -114,7 +114,7 @@ Hierna volgt een toelichting per aandeel.
   <li>Aantal jaar dividendgroei: 10</li>
 </ul>
 
-**South State Bank**
+**South State Bank** is een middelgrote regionale bank in het zuid-oosten van de Verenigde Staten. Hoewel het dividendrendement relatief laag is, groeit het relatief hard. Het is bovendien erg veilig: de bank heeft het dividend in 2008 niet verlaagd en betaalt slechts 30% van de winst uit als dividend.
 
 <ul class="blog-list">
   <li>Jaarlijks dividend: $22.56</li>
@@ -122,7 +122,7 @@ Hierna volgt een toelichting per aandeel.
   <li>Aantal jaar dividendgroei: 9</li>
 </ul>
 
-**TC Energy**
+**TC Energy** is het eerste Canadese aandeel in de portefeuille. Het bedrijf opereert als een energie-infrastructuurbedrijf in Noord-Amerika en heeft pijpleidingen in Canada, Mexico en de Verenigde Staten. Een dividendrendement van meer dan 5% dat ook nog eens met minimaal 5% per jaar groeit is moeilijk te negeren. Hoewel Joe Biden de aanleg van Keystone XL op zijn eerste dag als president direct heeft gestopt, zit er nog voldoende groei in de rest van de pijplijn.
 
 <ul class="blog-list">
   <li>Jaarlijks dividend: $116.19 (CAD 142.68)</li>
