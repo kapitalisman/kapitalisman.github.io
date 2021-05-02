@@ -13,11 +13,14 @@
 - name: American Tower
   image: /assets/images/aandelen/AMT.png
   
-- name: EOG Resources
-  image: /assets/images/aandelen/EOG.png
+- name: ConAgra Brands
+  image: /assets/images/aandelen/CAG.png
   
 - name: Chevron
   image: /assets/images/aandelen/CVX.png
+  
+- name: EOG Resources
+  image: /assets/images/aandelen/EOG.png
   
 - name: Home Depot
   image: /assets/images/aandelen/HD.png
@@ -30,6 +33,9 @@
   
 - name: Iron Mountain
   image: /assets/images/aandelen/IRM.png
+  
+- name: KeyBank
+  image: /assets/images/aandelen/KEY.png
   
 - name: Kimberly Clark
   image: /assets/images/aandelen/KMB.png
@@ -55,17 +61,26 @@
 - name: PepsiCo
   image: /assets/images/aandelen/PEP.png
   
+- name: Pinnacle West
+  image: /assets/images/aandelen/PNW.png
+  
 - name: Silgan Holdings
   image: /assets/images/aandelen/SLGN.png
   
 - name: Snap-On
   image: /assets/images/aandelen/SNA.png
   
+- name: South State Bank
+  image: /assets/images/aandelen/SSB.png
+  
 - name: AT&T
   image: /assets/images/aandelen/T.png
   
 - name: T.Rowe Price
   image: /assets/images/aandelen/TROW.png
+  
+- name: TC Energy
+  image: /assets/images/aandelen/TRP.png
   
 - name: UGI
   image: /assets/images/aandelen/UGI.png

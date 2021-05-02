@@ -19,14 +19,6 @@ Ik ben begonnen met $40,000 aan beschikbaar kapitaal. Daar was eind vorige maand
 
 Er is in april $68.79 aan dividend ontvangen.
 
-KMB 05-04-2021 Dividend van 8 aandelen a $1.14 per aandeel: $9.12
-IRM 06-04-2021 Dividend van 29 aandelen a $0.6185 per aandeel: $17.94
-MRK 07-04-2021 Dividend van 14 aandelen a $0.65 per aandeel: $9.1
-OMC 08-04-2021 Dividend van 8 aandelen a $0.7 per aandeel: $5.6
-ORCL 22-04-2021 Dividend van 29 aandelen a $0.32 per aandeel: $9.28
-AMT 29-04-2021 Dividend van 5 aandelen a $1.24 per aandeel: $6.2
-EOG 30-04-2021 Dividend van 28 aandelen a $0.4125 per aandeel: $11.55
-
 <div class="blog-list">
   <table>
     <tbody>
