@@ -132,7 +132,7 @@ Hierna volgt een toelichting per aandeel.
 
 ## Samenvatting
 
-Eind april heb ik vijf nieuwe dividend aandelen gekocht en een positie afgebouwd. Het jaarlijks te verwachten dividend is nu $1,656.06 en het dividendrendement op kosten 3.59% (was 3.47%).
+Eind april heb ik vijf nieuwe dividend aandelen gekocht en een positie afgebouwd. Het jaarlijks te verwachten dividend is nu $1,656.06 en het dividendrendement op kosten 3.62% (was 3.48%).
 
 Tot slot geef ik een overzicht van de kasstromen eind april:
 

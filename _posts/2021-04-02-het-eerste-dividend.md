@@ -123,7 +123,7 @@ Hierna volgt een toelichting per aandeel.
 
 ## Samenvatting
 
-Begin april heb ik vier nieuwe dividend aandelen gekocht en twee posities uitgebreid. De portefeuille omvat nu 25 verschillende aandelen. Het jaarlijks te verwachten dividend is nu $1,391.27 en het dividendrendement op kosten 3.47% (was 3.71%).
+Begin april heb ik vier nieuwe dividend aandelen gekocht en twee posities uitgebreid. De portefeuille omvat nu 25 verschillende aandelen. Het jaarlijks te verwachten dividend is nu $1,391.27 en het dividendrendement op kosten 3.48% (was 3.71%).
 
 Tot slot geef ik een overzicht van de kasstromen begin april:
 
