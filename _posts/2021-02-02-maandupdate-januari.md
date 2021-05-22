@@ -6,6 +6,7 @@ author: sam
 categories:
     - dividend
     - aandelen
+    - maandupdate
 layout: post
 ---
 

@@ -1,11 +1,12 @@
 ---
-title: Maandupdate april
+title: Home Depot verkocht
 image: /assets/images/update.jpg
-description: Maandupdate april.
+description: Home Depot verkocht.
 author: sam
 categories:
     - dividend
     - aandelen
+    - maandupdate
 layout: post
 ---
 
