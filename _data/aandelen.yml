@@ -13,6 +13,9 @@
 - name: American Tower
   image: /assets/images/aandelen/AMT.png
   
+- name: Booz Allen
+  image: /assets/images/aandelen/BAH.png
+  
 - name: ConAgra Brands
   image: /assets/images/aandelen/CAG.png
   
@@ -27,6 +30,9 @@
   
 - name: Huntington Ingalls
   image: /assets/images/aandelen/HII.png
+  
+- name: Hewlett-Packard
+  image: /assets/images/aandelen/HPQ.png
   
 - name: Hormel Foods
   image: /assets/images/aandelen/HRL.png
