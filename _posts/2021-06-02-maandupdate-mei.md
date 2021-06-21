@@ -109,7 +109,7 @@ Hierna volgt een toelichting per aandeel.
   <li>Aantal jaar dividendgroei: 49</li>
 </ul>
 
-**Merck** koop ik ook voor de derder keer en is nu een van mijn grotere posities. Vandaag wordt het bedrijf Organon afgesplitst waarvan ik 4 aandelen zal ontvangen. Organon is een van oorsprong Brabants farmaciebedrijf dat zich zal gaan richten op de gezondheid van vrouwen.
+**Merck** koop ik ook voor de derde keer en is nu een van mijn grotere posities. Vandaag wordt het bedrijf Organon afgesplitst waarvan ik 4 aandelen zal ontvangen. Organon is een van oorsprong Brabants farmaciebedrijf dat zich zal gaan richten op de gezondheid van vrouwen.
 
 <ul class="blog-list">
   <li>Jaarlijks dividend: $36.40</li>
