@@ -16,15 +16,17 @@ Door het verkopen van een put optie krijg je betaald om aandelen te kopen tegen 
 
 Dit kan je goed vergelijken met het verkopen van een verzekering. De koper betaalt een premie en in geval van schade (de prijs van het aandeel zakt onder de uitoefenprijs van de optie) is de verkoper verplicht om die schade te vergoeden (door het kopen van de aandelen voor de uitoefenprijs).
 
-Maar als verkoper van een put optie ben je veel flexibeler dan als verkoper van een verzekering. Als de prijs van het aandeel is gezakt dan kun je er namelijk voor kiezen om het contract een maand te verlengen. Hiervoor ontvang je extra premie en dit geeft het aandeel wat tijd om te herstellen en de schade ongedaan te maken. En als de prijs van het aandeel juist is gestegen dan kun je er ook voor kiezen om het contract vroegtijdig te beëindigen.
+Maar nu komt het: als verkoper van een put optie ben je veel flexibeler dan als verkoper van een verzekering. Als de prijs van het aandeel is gezakt dan kun je er namelijk voor kiezen om het contract een maand te verlengen. Hiervoor ontvang je extra premie en dit geeft het aandeel wat tijd om te herstellen en de schade ongedaan te maken. En als de prijs van het aandeel juist is gestegen dan kun je er ook voor kiezen om het contract vroegtijdig te beëindigen.
 
-## Margevereiste
+In beide situaties is het dus mogelijk om het risico te beheersen, mits hiervoor niet teveel marge benodigd is.
+
+## Het margevereiste
 
 Door een put optie te verkopen ga je een verplichting aan. Net als een verzekeraar voldoende kapitaal moet aanhouden om solvabel te zijn, moet je als verkoper van een put optie ook voldoende onderpand hebben. Dit heet het margevereiste. Hoeveel dit precies is hangt af van de verplichting die je aangaat.
 
 Mijn broker bepaalt het margevereiste $$ M $$ als volgt:
 
-<!--- Put Price + \max ((20% * Underlying Price - Out of the Money Amount), (10% * Strike Price)) -->
+<!--- Put Price + \max ((20% * Underlying Price - Out of the Money Amount), (10% * Strike Price)) --->
 <div>
   $$ M = P + \max(K - 80\% \cdot S, 10\% \cdot K) $$
 </div>
@@ -41,11 +43,15 @@ Indien de koper overgaat tot het uitoefenen van de optie ben ik verplicht om 100
 
 Het margevereiste bedroeg initieel $587, oftewel 16.7% van $3,500. Het onderpand, mijn portefeuille met dividend aandelen, moet dus minimaal $587 waard zijn om aan het margevereiste te voldoen.
 
-Pfizer is uiteindelijk in waarde gestegen en sloot 21 mei op ongeveer $40. De optie vervalt dan waardeloos en ik heb geen verplichtingen meer. De ontvangen premie mag ik houden.
+In de grafiek hieronder staat de winst als functie van de aandeelprijs. Het break-even punt ligt bij een aandeelprijs van $34.53.
 
-<!---
 <div class="chart-wrapper">
     <canvas id="payoff" width="400" height="200" align="left">Deze grafiek wordt door jouw browser niet ondersteund.</canvas>
 </div>
-<script src="{{site.baseurl}}/assets/js/charts/put-option-payoff.js"></script>
--->
+<script src="{{site.baseurl}}/assets/js/charts/2021-05-22-script.js"></script>
+
+Pfizer is uiteindelijk in waarde gestegen en sloot 21 mei op ongeveer $40. De optie vervalt dan waardeloos en ik heb geen verplichtingen meer. De ontvangen premie mag ik houden.
+
+## Conclusie
+
+Door de portefeuille als onderpand in te zetten voor het verkopen van put opties is het mogelijk om extra inkomen te genereren. Een positie van 100 aandelen Pfizer zou momenteel $156 per jaar aan dividend opleveren. De put optie heeft mij in zes weken $47, oftewel 30% van het jaarlijkse dividend, opgeleverd.
