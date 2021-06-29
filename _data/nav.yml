@@ -2,7 +2,11 @@
   link: '/'
 
 - title: About
-  link: '/about/'
+  sublinks:
+    - title: Over Mij
+      link: '/about/'
+    - title: Mijn Portefeuille
+      link: '/portfolio/'
   
 - title: Goals
   link: '/goals/'

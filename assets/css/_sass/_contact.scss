@@ -1,56 +1,26 @@
-/***
- *                                                                                             
- *     ,-----.                 ,--.                  ,--.      ,------.                        
- *    '  .--./ ,---. ,--,--, ,-'  '-. ,--,--. ,---.,-'  '-.    |  .---',---. ,--.--.,--,--,--. 
- *    |  |    | .-. ||      \'-.  .-'' ,-.  || .--''-.  .-'    |  `--,| .-. ||  .--'|        | 
- *    '  '--'\' '-' '|  ||  |  |  |  \ '-'  |\ `--.  |  |      |  |`  ' '-' '|  |   |  |  |  | 
- *     `-----' `---' `--''--'  `--'   `--`--' `---'  `--'      `--'    `---' `--'   `--`--`--' 
- *                                                                                             
- */
 
-form.wj-contact {
-  padding: 0em;
-  margin: 1em 0;
-  @include media-query($on-palm) {
-    padding: 0;
-  }
-
-  input[type="text"],
-  input[type="email"],
-  textarea[type="text"] {
+.sheets {
+  iframe {
+    height: 800px;
     width: 100%;
-    vertical-align: middle;
-    margin-bottom: 1em;
-    padding: 0.5em;
-    font-weight: lighter;
-    border-style: solid;
-    border-color: $grey-color;
-    outline-color: $brand-color;
-    border-width: 1px;
-    border-radius: 3px;
-    transition: box-shadow 0.2s ease;
+    border: 0;
+    scrolling: no !important;
   }
 
-  input[type="submit"] {
-    outline: none;
-    color: white;
-    padding: 8px 25px;
-    background-color: $brand-color;
-    margin: 0.25em 0 0 0;
-    cursor: pointer;
+  @media screen and (max-width: 768px) {
+    iframe {
+      height: 0px;
+    }
   }
 }
 
-.map {
-  iframe {
-    height: 300px;
-    width: 100%;
-    border: 2px solid $brand-color;
-  }
 
-  @include media-query($on-palm) {
-    iframe {
-      height: 200px;
-    }
+#content-mobile {
+  display: none;
+}
+
+@media screen and (max-width: 768px) {
+  #content-mobile {
+    display: block;
   }
 }
