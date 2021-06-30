@@ -1,5 +1,6 @@
 ---
 title: Zestien nieuwe aandelen
+subtitle: Maandupdate<br>Februari 2021
 image: /assets/images/zestien.jpg
 description: Een ovezicht van nieuwe aandelen in mijn portefeuille.
 author: sam

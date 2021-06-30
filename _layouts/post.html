@@ -9,7 +9,11 @@ This layout is used for posts. Changing anything here will affect all posts(not 
 	<main>
 		<header class="position-relative text-center rev">
 			<div class="header-image" style="background-image: url({{site.baseurl}}{{page.image}})"></div>
+			{% if page.subtitle %}
+			<h1 class="post-title position-absolute">{{page.subtitle}}</h1>
+			{% else %}
 			<h1 class="post-title position-absolute">{{page.title}}</h1>
+			{% endif %}
 		</header>
 		<div class="container">
 			<div class="blog-content pd">
@@ -38,7 +42,7 @@ This layout is used for posts. Changing anything here will affect all posts(not 
 
 				<div class="row">
 					<div class="col-md-12">
-
+						<h1>{{page.title}}</h1>
 						<article>
 							{% include toc.html html=content class="toc.rev.clearfix" %}
 							{{content}}

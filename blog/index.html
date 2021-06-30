@@ -12,6 +12,11 @@ description: Overzicht van alle blog posts
 			<a class="nostyle" href="{{site.baseurl}}{{post.url}}">
 				<div class="row cards blog-list rev">
 					<div class="col-md-4 image" style="background-image: url({{site.baseurl}}{{post.image}});">
+						{% if post.subtitle %}
+						<div class="subtitle-container">
+							<h1 class="post-subtitle">{{post.subtitle}}</h1>
+						</div>
+						{% endif %}
 					</div>
 					<div class="col-md-8 content">
 						<h3 class="blog-index-title">{{post.title}}</h3>

@@ -11,6 +11,9 @@
 				<a href="{{post.url}}" class="nostyle">
 					<div class="cards rev">
 						<img src="{{post.image}}" alt="{{post.title}}">
+						{% if post.subtitle %}
+						<h1 class="recent-container post-subtitle">{{post.subtitle}}</h1>
+						{% endif %}
 						<div class="card-body">
 							<span><small>{{post.date | date_to_string }}</small></span>
 							<h5>{{post.title}}</h5>

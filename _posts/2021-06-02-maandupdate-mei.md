@@ -1,5 +1,6 @@
 ---
 title: Koop de Dip
+subtitle: Maandupdate<br>Mei 2021
 image: /assets/images/veer.jpg
 description: Extra inleg en nieuwe aankopen.
 author: sam
