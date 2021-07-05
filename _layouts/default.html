@@ -25,7 +25,7 @@
 
 	{% if page.url == '/' %}
 	<!-- Prerender next pages for faster page speed -->
-	<link rel="prerender" href="{{site.baseurl}}/contact/" />
+	<link rel="prerender" href="{{site.baseurl}}/portfolio/" />
 	<link rel="prerender" href="{{site.baseurl}}/about/" />
 	<link rel="prerender" href="{{site.baseurl}}/blog/" />
 	{% endif %}
@@ -248,6 +248,10 @@
 		});
 
 	</script>
+	{% endif %}
+	
+	{% if site.disqus %}
+	<script id="dsq-count-scr" src="//{{site.disqus}}.disqus.com/count.js" async></script>
 	{% endif %}
 </body>
 

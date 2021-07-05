@@ -61,7 +61,7 @@ In juni heb ik geen aandelen verkocht.
 
 ## Aankopen
 
-In de tabel hieronder staan mijn aankopen voor de maand juli. Daarnaast heb ik op 18 juni dus ook 100 aandelen SCHD gekocht tegen een koers van $74.35. Dit blijkt vooralsnog een uitstekende timing. Beleggers waren namelijk onrustig in de nasleep van de bestuursvergadering van de Amerikaanse centrale bank op woensdag 16 juni. Jerome Powell zei renteverhogingen te verwachten vanaf 2023 waardoor de beurzen donderdag en vooral vrijdag lager noteerde. Na het weekend herstelde de koersen vrijwel direct.
+In de tabel hieronder staan mijn aankopen voor de maand juli. Daarnaast heb ik op 18 juni dus ook 100 aandelen SCHD gekocht tegen een koers van $74.35. Dit blijkt vooralsnog een uitstekende timing. Beleggers waren namelijk onrustig in de nasleep van de bestuursvergadering van de Amerikaanse centrale bank op woensdag 16 juni. Jerome Powell zei renteverhogingen te verwachten vanaf 2023 waardoor de beurzen donderdag en vooral vrijdag lager noteerden. Na het weekend herstelden de koersen vrijwel direct.
 
 | Aandeel            | Ticker | Aantal | Prijs    |
 |--------------------| -------| -------|----------|

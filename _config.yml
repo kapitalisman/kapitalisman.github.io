@@ -101,3 +101,17 @@ plugins:
 
 emoji:
   src: "https://github.githubassets.com/images/icons/"
+
+months:
+    - januari
+    - februari
+    - maart
+    - april
+    - mei
+    - juni
+    - juli
+    - augustus
+    - september
+    - oktober
+    - november
+    - december
