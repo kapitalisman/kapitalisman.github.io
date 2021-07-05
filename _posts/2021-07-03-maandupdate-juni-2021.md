@@ -15,7 +15,7 @@ In de maand juni heb ik vooral aandelen gekocht in ondervertegenwoordigde sector
 
 ## Update
 
-Eind vorige maand was er afgerond nog $86 aan beschikbaar kapitaal. De portefeuille is in juni met $482.01 in waarde gedaald, wat zich vertaalt in een rendement van -0.47%. Ter vergelijking: in dezelfde maand steeg de S&P 500 index van 4,204.11 naar 4,297.50, een toename van 2.22%.
+Eind vorige maand was er afgerond nog $86 aan beschikbaar kapitaal. De portefeuille is in juni met $265.03 in waarde gedaald, wat zich vertaalt in een rendement van -0.47%. Ter vergelijking: in dezelfde maand steeg de S&P 500 index van 4,204.11 naar 4,297.50, een toename van 2.22%.
 
 Er is in juni $216.98 aan dividend ontvangen.
 

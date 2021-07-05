@@ -17,7 +17,7 @@ Dit blog doet onder andere verslag van het reilen en zeilen van mijn portefeuill
 
 ## Update
 
-Ik ben begonnen met $40,000 aan beschikbaar kapitaal. Daar was eind vorige maand afgerond nog $12,664 van over. De portefeuille is in maart met $2,532.00 in waarde gestegen, wat zich vertaalt in een rendement van 8.97%. Ter vergelijking: in dezelfde maand steeg de S&P 500 index van 3,811.15 naar 3,972.89, een toename van 4.24%.
+Ik ben begonnen met $40,000 aan beschikbaar kapitaal. Daar was eind vorige maand afgerond nog $12,664 van over. De portefeuille is in maart met $2,765.64 in waarde gestegen, wat zich vertaalt in een rendement van 8.97%. Ter vergelijking: in dezelfde maand steeg de S&P 500 index van 3,811.15 naar 3,972.89, een toename van 4.24%.
 
 Er is in maart $116.82 aan dividend ontvangen.
 

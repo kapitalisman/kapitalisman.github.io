@@ -17,7 +17,7 @@ Deze maand dus toch nog meerdere aankopen. Ik heb drie posities die nog niet har
 
 ## Update
 
-Ik ben begonnen met $40,000 aan beschikbaar kapitaal. Daar was eind vorige maand afgerond nog $249 van over. De portefeuille is in mei met $1,144.13 in waarde gestegen, wat zich vertaalt in een rendement van 2.50%. Ter vergelijking: in dezelfde maand steeg de S&P 500 index van 4,181.17 naar 4,204.11, een toename van 0.55%.
+Ik ben begonnen met $40,000 aan beschikbaar kapitaal. Daar was eind vorige maand afgerond nog $249 van over. De portefeuille is in mei met $1,256.08 in waarde gestegen, wat zich vertaalt in een rendement van 2.50%. Ter vergelijking: in dezelfde maand steeg de S&P 500 index van 4,181.17 naar 4,204.11, een toename van 0.55%.
 
 Er is in mei $90.37 aan dividend ontvangen.
 
