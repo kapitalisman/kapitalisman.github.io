@@ -1,4 +1,1 @@
-{{ page.date | date: "%-d" }}
-{% assign m = page.date | date: "%-m" | minus: 1 %}
-{{ site.months[m] }}
-{{ page.date | date: "%Y" }}
+{% assign m = page.date | date: "%-m" | minus: 1 %}{{ page.date | date: "%-d" }} {{ site.months[m] }} {{ page.date | date: "%Y" }}
