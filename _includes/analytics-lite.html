@@ -1,11 +1,6 @@
-<script src="https://unpkg.com/ga-lite@2/dist/ga-lite.min.js" async></script>
+<script src="https://unpkg.com/ga-lite@1/dist/ga-lite.min.js" async></script>
 <script>
-    window.galite=window.galite||function(){(galite.q=galite.q||[]).push(arguments)};
-    galite('create', '{{site.analytics}}', 'auto');
-    galite('send', 'pageview');
+  var galite = galite || {};
+  galite.UA = '{{site.analytics}}'
 </script>
-<script>
-  window.addEventListener('unload', function() {
-    galite('send', 'timing', 'JS Dependencies', 'unload')
-  })
-</script>
+
