@@ -1,5 +1,10 @@
-<script src="https://cdn.jsdelivr.net/npm/ga-lite@1/dist/ga-lite.min.js" async></script>
+<script src="https://unpkg.com/ga-lite@2.1.0/dist/ga-lite.min.js" async></script>
 <script>
-    var galite = galite || {};
-    galite.UA = '{{site.analytics}}'; 
+  galite('create', '{{site.analytics}}', 'auto')
+  galite('send', 'pageview')
+</script>
+<script>
+  window.addEventListener('unload', function() {
+    galite('send', 'timing', 'JS Dependencies', 'unload')
+  })
 </script>
