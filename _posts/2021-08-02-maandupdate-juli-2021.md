@@ -1,7 +1,7 @@
 ---
 title: Pep si, pep no
 subtitle: Maandupdate<br>Juli 2021
-image: /assets/images/update.jpg
+image: /assets/images/parrot.jpg
 description: PepsiCo verkocht.
 author: sam
 categories:
