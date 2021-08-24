@@ -83,10 +83,11 @@ In de tabel hieronder staan mijn aankopen eind juli.
 | Aandeel            | Ticker | Aantal | Prijs   |
 |--------------------| -------| -------| --------|
 | Best Buy           | BBY    | 9      | $114.72 |
+| Cigna              | CI     | 5      | $209.71 |
 | South State Bank   | SSB    | 16     |  $70.37 |
 | VICI Properties    | VICI   | 16     |  $31.45 |
 
-Mijn portefeuille omvat nu 39 verschillende aandelen. Oracle (+12.0%), PepsiCo (+6.1%) en H&R Block (+5.3%) zijn in juli het meest in waarde gestegen. De grote verliezer was South State Bank (-15.8%).
+Mijn portefeuille omvat nu 40 verschillende aandelen. Oracle (+12.0%), PepsiCo (+6.1%) en H&R Block (+5.3%) zijn in juli het meest in waarde gestegen. De grote verliezer was South State Bank (-15.8%).
 
 <div class="chart-wrapper">
     <canvas id="weights" width="400" height="200" align="left">Deze grafiek wordt door jouw browser niet ondersteund.</canvas>
@@ -103,6 +104,14 @@ Hierna volgt een toelichting per aandeel.
   <li>Jaarlijks dividend: $25.20</li>
   <li>Dividendrendement op kosten: 2.44%</li>
   <li>Aantal jaar dividendgroei: 18</li>
+</ul>
+
+**Cigna** is een snelgroeiende leverancier van diensten en producten in de zorg. Begin augustus daalde de koers van het aandeel met ruim 10% nadat de vooruitzichten iets naar beneden werden bijgesteld. Een tikkeltje overdreven voor dit toch al ondergewaardeerde aandeel dat eerder dit jaar nog boven $260 noteerde. Hoewel het bedrijf pas sinds begin 2021 een fatsoenlijk dividend betaald, is hier wat mij betreft sprake van een gunstige risico-rendementverhouding.
+
+<ul class="blog-list">
+  <li>Jaarlijks dividend: $20.00</li>
+  <li>Dividendrendement op kosten: 1.91%</li>
+  <li>Aantal jaar dividendgroei: 1</li>
 </ul>
 
 **South State Bank** hervatte deze maand haar dividendverhogingen. Desondanks is de koers bijna 16% gedaald, en dat na de eerdere daling van bijna 8% in juni. Een uitgelezen kans om bij te kopen. Met de aankoop in juli is mijn gemiddelde aankoopprijs gedaald van $85.47 naar $76.84.
@@ -123,16 +132,16 @@ Hierna volgt een toelichting per aandeel.
 
 ## Samenvatting
 
-Eind juli heb ik een dividend aandeel verkocht en drie posities uitgebreid. Het jaarlijks te verwachten dividend is nu $2,223.25 en het dividendrendement op kosten 3.49% (was 3.48%).
+Eind juli heb ik een dividend aandeel verkocht en drie posities uitgebreid. Begin augustus is Cigna toegevoegd aan de portefeuille. Het jaarlijks te verwachten dividend is nu $2,243.25 en het dividendrendement op kosten 3.47% (was 3.48%).
 
 Tot slot geef ik een overzicht van de kasstromen eind juli:
 
 <ul class="blog-list">
   <li>Beschikbaar kapitaal: $24.97</li>
-  <li>Inleg: $1,500.00</li>
+  <li>Inleg: $3,000.00</li>
   <li>Ontvangen dividend (juli): $206.98</li>
-  <li>Deze maand geïnvesteerd: $1,403.77</li>
-  <li>Resterend kapitaal: $328.18</li>
+  <li>Deze maand geïnvesteerd: $2,452.58</li>
+  <li>Resterend kapitaal: $779.37</li>
 </ul>
 
-Er is nu in totaal $64,371.76 geïnvesteerd, waarvan $699.94 herbelegd dividend. De portefeuille bestaat uit 39 aandelen met een marktwaarde van $69,229.36. In juli werd een rendement behaald van 0.18%.
+Er is nu in totaal $65,420.57 geïnvesteerd, waarvan $699.94 herbelegd dividend. De portefeuille bestaat uit 40 aandelen met een marktwaarde van $70,278.17. In juli werd een rendement behaald van 0.18%.
