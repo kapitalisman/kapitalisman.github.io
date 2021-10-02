@@ -15,7 +15,7 @@ Soms moet je de natuur een beetje helpen. Bijvoorbeeld door pindanetjes op te ha
 
 ## Update
 
-Eind vorige maand was er afgerond nog $779 aan beschikbaar kapitaal. De portefeuille is in augustus met $466.95 in waarde gestegen, wat zich vertaalt in een rendement van 0.66%. Ter vergelijking: in dezelfde maand steeg de S&P 500 index van 4,395.26 naar 4,528.79, een toename van 3.04%.
+Eind vorige maand was er afgerond nog $779 aan beschikbaar kapitaal. De portefeuille is in augustus met $406.37 in waarde gestegen, wat zich vertaalt in een rendement van 0.58%. Ter vergelijking: in dezelfde maand steeg de S&P 500 index van 4,395.26 naar 4,522.68, een toename van 2.90%.
 
 Er is in augustus $126.69 aan dividend ontvangen.
 
@@ -115,7 +115,7 @@ In de tabel hieronder staan mijn aankopen eind augustus. Best Buy vervangt Home 
 | Tyson Foods        | SSB    | 25     |  $79.73 |
 | VICI Properties    | VICI   | 36     |  $29.45 |
 
-Mijn portefeuille omvat nog steeds 40 verschillende aandelen. T Rowe Price (+9.1%), American Financial Group (+8.1%) en Key Bank (+6.3%) zijn in augustus het meest in waarde gestegen. De verliezers waren Amgen (-7.8%) en Pinnacle West (-7.5%).
+Mijn portefeuille omvat nog steeds 40 verschillende aandelen. T Rowe Price (+9.7%), Iron Mountain (+9.1%) en American Financial Group (+5.8%) zijn in augustus het meest in waarde gestegen. De verliezers waren Amgen (-6.6%), EOG (-7.3%) en Pinnacle West (-8.0%).
 
 <div class="chart-wrapper">
     <canvas id="weights" width="400" height="200" align="left">Deze grafiek wordt door jouw browser niet ondersteund.</canvas>
@@ -171,7 +171,7 @@ Tot slot geef ik een overzicht van de kasstromen eind augustus:
   <li>Inleg: $3,000.00</li>
   <li>Ontvangen dividend (augustus): $126.69</li>
   <li>Deze maand geïnvesteerd: $3,694.83</li>
-  <li>Resterend kapitaal: $203.99</li>
+  <li>Resterend kapitaal: $211.23</li>
 </ul>
 
-Er is nu in totaal $69,115.40 geïnvesteerd, waarvan $826.63 herbelegd dividend. De portefeuille bestaat uit 40 aandelen met een marktwaarde van $74,375.68. In augustus werd een rendement behaald van 0.66%.
+Er is nu in totaal $69,115.40 geïnvesteerd, waarvan $826.63 herbelegd dividend. De portefeuille bestaat uit 40 aandelen met een marktwaarde van $74,252.68. In augustus werd een rendement behaald van 0.58%.
