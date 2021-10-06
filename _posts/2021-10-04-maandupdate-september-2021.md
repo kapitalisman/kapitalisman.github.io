@@ -93,7 +93,7 @@ Hierna volgt een toelichting per aandeel.
   <li>Aantal jaar dividendgroei: 9</li>
 </ul>
 
-**Store Capital** daalde ook stevig in september terwijl het bedrijf halverwege de maand het dividend met 6.9% heeft verhoogd. Store Capital is een zogenaamde Triple Net Lease REIT. Dat houdt in dat de huurder niet alleen huur betaald, maar ook kosten waaronder belastingen (1), verzekeringen (2) en onderhoud (3). Het bedrijf is gericht op de kleinere huurders meestal zonder een credit rating. De top 10 huurders zijn gezamenlijk verantwoordelijk voor slechts 18% van de omzet. Dat is erg laag in vergelijking met andere REITs en dit verminderd het risico. STORE (Single Tenant Operational Real Estate) heeft sowieso een goed gediversificeerde portefeuille met meer dan 2700 gebouwen en 500 huurders verspreid over 49 staten. De bezetting ligt momenteel op maar liefst 99,6%.
+**Store Capital** daalde ook stevig in september terwijl het bedrijf halverwege de maand het dividend met 6.9% heeft verhoogd. Store Capital is een zogenaamde Triple Net Lease REIT. Dat houdt in dat de huurder niet alleen huur betaalt, maar ook kosten waaronder belastingen (1), verzekeringen (2) en onderhoud (3). Het bedrijf is gericht op de kleinere huurders meestal zonder een credit rating. De top 10 huurders zijn gezamenlijk verantwoordelijk voor slechts 18% van de omzet. Dat is erg laag in vergelijking met andere REITs en dit verminderd het risico. STORE (Single Tenant Operational Real Estate) heeft sowieso een goed gediversificeerde portefeuille met meer dan 2700 gebouwen en 500 huurders verspreid over 49 staten. De bezetting ligt momenteel op maar liefst 99,6%.
 
 <ul class="blog-list">
   <li>Jaarlijks dividend: $49.28</li>
