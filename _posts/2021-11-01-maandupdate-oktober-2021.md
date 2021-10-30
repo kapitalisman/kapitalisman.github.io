@@ -124,4 +124,4 @@ Tot slot geef ik een overzicht van de kasstromen eind oktober:
   <li>Resterend kapitaal: $293.63</li>
 </ul>
 
-Er is nu in totaal $74,052.54 geïnvesteerd, waarvan $1,346.17 herbelegd dividend. De portefeuille bestaat uit 41 aandelen met een marktwaarde van $76,913.31. In oktober werd een rendement behaald van 5.15%.
+Er is nu in totaal $74,052.54 geïnvesteerd, waarvan $1,346.17 herbelegd dividend. De portefeuille bestaat uit 41 aandelen met een marktwaarde van $79,918.32. In oktober werd een rendement behaald van 5.15%.
