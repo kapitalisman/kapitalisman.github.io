@@ -35,7 +35,7 @@ Er is in oktober $247.89 aan dividend ontvangen.
       <tr><td><b>VICI</b></td><td>&nbsp;07-10-2021</td><td>&nbsp;Dividend van</td><td>&nbsp;<b>68</b></td><td>&nbsp;aandelen:</td><td>&nbsp;$</td><td>24.48</td></tr>
       <tr><td><b>OMC</b></td><td>&nbsp;12-10-2021</td><td>&nbsp;Dividend van</td><td>&nbsp;<b>8</b></td><td>&nbsp;aandelen:</td><td>&nbsp;$</td><td>5.60</td></tr>
       <tr><td><b>AMT</b></td><td>&nbsp;15-10-2021</td><td>&nbsp;Dividend van</td><td>&nbsp;<b>5</b></td><td>&nbsp;aandelen:</td><td>&nbsp;$</td><td>6.55</td></tr>
-      <tr><td><b>AFG</b></td><td>&nbsp;25-10-2021</td><td>&nbsp;Dividend van</td><td>&nbsp;<b>4</b></td><td>&nbsp;aandelen:</td><td>&nbsp;$</td><td>2.24</td></tr>
+      <tr style="color: #0b5394;"><td><b>AFG</b></td><td>&nbsp;25-10-2021</td><td>&nbsp;Dividend van</td><td>&nbsp;<b>4</b></td><td>&nbsp;aandelen:</td><td>&nbsp;$</td><td>2.24</td></tr>
       <tr><td><b>ORCL</b></td><td>&nbsp;26-10-2021</td><td>&nbsp;Dividend van</td><td>&nbsp;<b>29</b></td><td>&nbsp;aandelen:</td><td>&nbsp;$</td><td>9.28</td></tr>
       <tr><td><b>BXP</b></td><td>&nbsp;29-10-2021</td><td>&nbsp;Dividend van</td><td>&nbsp;<b>5</b></td><td>&nbsp;aandelen:</td><td>&nbsp;$</td><td>4.90</td></tr>
       <tr><td><b>EOG</b></td><td>&nbsp;29-10-2021</td><td>&nbsp;Dividend van</td><td>&nbsp;<b>28</b></td><td>&nbsp;aandelen:</td><td>&nbsp;$</td><td>11.55</td></tr>

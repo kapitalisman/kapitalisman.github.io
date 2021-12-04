@@ -22,7 +22,7 @@ Er is in augustus $126.69 aan dividend ontvangen.
 <div class="blog-list">
   <table>
     <tbody>
-      <tr><td><b>AFG</b></td><td>&nbsp;02-08-2021</td><td>&nbsp;Dividend van</td><td>&nbsp;<b>4</b></td><td>&nbsp;aandelen:</td><td>&nbsp;$</td><td>8.00</td></tr>
+      <tr style="color: #0b5394;"><td><b>AFG</b></td><td>&nbsp;02-08-2021</td><td>&nbsp;Dividend van</td><td>&nbsp;<b>4</b></td><td>&nbsp;aandelen:</td><td>&nbsp;$</td><td>8.00</td></tr>
       <tr><td><b>T</b></td><td>&nbsp;02-08-2021</td><td>&nbsp;Dividend van</td><td>&nbsp;<b>106</b></td><td>&nbsp;aandelen:</td><td>&nbsp;$</td><td>55.12</td></tr>
       <tr><td><b>ABBV</b></td><td>&nbsp;16-08-2021</td><td>&nbsp;Dividend van</td><td>&nbsp;<b>20</b></td><td>&nbsp;aandelen:</td><td>&nbsp;$</td><td>26.00</td></tr>
       <tr><td><b>HRL</b></td><td>&nbsp;16-08-2021</td><td>&nbsp;Dividend van</td><td>&nbsp;<b>22</b></td><td>&nbsp;aandelen:</td><td>&nbsp;$</td><td>5.39</td></tr>
