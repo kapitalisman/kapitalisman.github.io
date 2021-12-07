@@ -125,7 +125,7 @@ eens bovenop. Ik had eerder dit jaar slechts 4 aandelen gekocht en dat aantal is
   <li>Aantal jaar dividendgroei: 18</li>
 </ul>
 
-**L3Harris** heb ik bijgekocht met de opbrengsten van Huntington Ingalls. Op die manier blijft mijn blootstelling aan de sector min of meer gelijk. Nu maar hopen dat L3 Harris volgend jaar wel een forse dividendverhoging aankondigt.
+**L3Harris** heb ik bijgekocht met de opbrengsten van Huntington Ingalls. Op die manier blijft mijn blootstelling aan de sector min of meer gelijk. Nu maar hopen dat L3Harris volgend jaar wel een forse dividendverhoging aankondigt.
 
 <ul class="blog-list">
   <li>Jaarlijks dividend: $16.32</li>
