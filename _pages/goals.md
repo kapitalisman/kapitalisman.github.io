@@ -15,6 +15,7 @@ description: Doelstellingen op jaarbasis.
     <p>
 		<ul class="blog-list">
 			<li>Inleg totaal: $15,000 ⌚</li>
+			<li>Dividend inkomen: $3,200 ⌚</li>
 			<li>Verwacht jaarlijks dividend inkomen: $4,000 ⌚</li>
 			<li>Inkomsten uit opties: $15,000 ⌚</li>
 		</ul>
@@ -23,7 +24,7 @@ description: Doelstellingen op jaarbasis.
     <p>
 		<ul class="blog-list">
 			<li><s>Aantal verschillende aandelen: 25</s> ✅</li>
-			<li><s>Maandelijkse inleg: $1,500</s> ✅</li>
+			<li>Maandelijkse inleg: $1,500 ❌</li>
 			<li><s>Verwacht jaarlijks dividend inkomen: $2,000</s> ✅</li>
 		</ul>
     </p>
