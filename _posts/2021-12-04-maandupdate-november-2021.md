@@ -41,7 +41,7 @@ In november kondigden de volgende aandelen een aanpassing van het dividend aan:
   <table>
     <tbody>
       <tr><td><b>HII&nbsp;</b></td><td>&nbsp;03-11-2021</td><td>&nbsp;Dividend van 1.14&nbsp;&nbsp;</td><td>&nbsp;naar <b>1.18&nbsp;&nbsp;</b></td><td>&nbsp;per aandeel:</td><td>&nbsp;+3.5%</td><td></td></tr>
-      <tr><td><b>JEPI&nbsp;</b></td><td>&nbsp;03-11-2021</td><td>&nbsp;Dividend van 0.376&nbsp;</td><td>&nbsp;naar <b>0.3636</b></td><td>&nbsp;per aandeel:</td><td>&nbsp;-3.3%</td><td></td></tr>
+      <tr><td><b>JEPI&nbsp;</b></td><td>&nbsp;03-11-2021</td><td>&nbsp;Dividend van 4.51&nbsp;&nbsp;</td><td>&nbsp;naar <b>4.36&nbsp;&nbsp;</b></td><td>&nbsp;per aandeel:</td><td>&nbsp;-3.3%</td><td>&nbsp; (ttm)</td></tr>
       <tr><td><b>SNA&nbsp;</b></td><td>&nbsp;04-11-2021</td><td>&nbsp;Dividend van 1.23&nbsp;&nbsp;</td><td>&nbsp;naar <b>1.42&nbsp;&nbsp;</b></td><td>&nbsp;per aandeel:</td><td>&nbsp;+15.4%</td><td></td></tr>
       <tr><td><b>EOG&nbsp;</b></td><td>&nbsp;04-11-2021</td><td>&nbsp;Dividend van 0.4125</td><td>&nbsp;naar <b>0.75&nbsp;&nbsp;</b></td><td>&nbsp;per aandeel:</td><td>&nbsp;+81.8%</td><td></td></tr>
       <tr><td><b>PNW&nbsp;</b></td><td>&nbsp;04-11-2021</td><td>&nbsp;Dividend van 0.83&nbsp;&nbsp;</td><td>&nbsp;naar <b>0.85&nbsp;&nbsp;</b></td><td>&nbsp;per aandeel:</td><td>&nbsp;+2.4%</td><td></td></tr>
