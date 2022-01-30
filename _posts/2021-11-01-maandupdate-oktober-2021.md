@@ -117,11 +117,11 @@ De portefeuille is deze maand weer goed hersteld. Eind oktober heb ik drie aanko
 Tot slot geef ik een overzicht van de kasstromen eind oktober:
 
 <ul class="blog-list">
-  <li>Beschikbaar kapitaal: $50.75</li>
+  <li>Beschikbaar kapitaal: $50.66</li>
   <li>Inleg: $3,000.00</li>
   <li>Ontvangen dividend (oktober): $247.89</li>
   <li>Deze maand geïnvesteerd: $3,005.01</li>
-  <li>Resterend kapitaal: $293.63</li>
+  <li>Resterend kapitaal: $293.54</li>
 </ul>
 
-Er is nu in totaal $74,052.54 geïnvesteerd, waarvan $1,346.17 herbelegd dividend. De portefeuille bestaat uit 41 aandelen met een marktwaarde van $79,918.32. In oktober werd een rendement behaald van 5.15%.
+Er is nu in totaal $74,052.63 geïnvesteerd, waarvan $1,346.17 herbelegd dividend. De portefeuille bestaat uit 41 aandelen met een marktwaarde van $79,918.32. In oktober werd een rendement behaald van 5.15%.

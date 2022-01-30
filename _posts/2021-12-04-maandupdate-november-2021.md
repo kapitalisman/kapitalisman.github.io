@@ -148,11 +148,11 @@ Eind november heb ik vijf posities uitgebreid en één positie geliquideerd. Het
 Tot slot geef ik een overzicht van de kasstromen eind november:
 
 <ul class="blog-list">
-  <li>Beschikbaar kapitaal: $293.63</li>
+  <li>Beschikbaar kapitaal: $293.54</li>
   <li>Inleg: $3,000.00</li>
   <li>Ontvangen dividend (november): $134.84</li>
   <li>Deze maand geïnvesteerd: $3,287.34</li>
-  <li>Resterend kapitaal: $141.13</li>
+  <li>Resterend kapitaal: $141.04</li>
 </ul>
 
-Er is nu in totaal $77,339.88 geïnvesteerd, waarvan $1,481.01 herbelegd dividend. De portefeuille bestaat uit 40 aandelen met een marktwaarde van $80,007.70. In november werd een rendement behaald van -3.83%.
+Er is nu in totaal $77,339.97 geïnvesteerd, waarvan $1,481.01 herbelegd dividend. De portefeuille bestaat uit 40 aandelen met een marktwaarde van $80,007.70. In november werd een rendement behaald van -3.83%.

@@ -15,7 +15,7 @@ Soms moet je de natuur een beetje helpen. Bijvoorbeeld door pindanetjes op te ha
 
 ## Update
 
-Eind vorige maand was er afgerond nog $779 aan beschikbaar kapitaal. De portefeuille is in augustus met $406.37 in waarde gestegen, wat zich vertaalt in een rendement van 0.58%. Ter vergelijking: in dezelfde maand steeg de S&P 500 index van 4,395.26 naar 4,522.68, een toename van 2.90%.
+Eind vorige maand was er afgerond nog $779 aan beschikbaar kapitaal. De portefeuille is in augustus met $406.28 in waarde gestegen, wat zich vertaalt in een rendement van 0.58%. Ter vergelijking: in dezelfde maand steeg de S&P 500 index van 4,395.26 naar 4,522.68, een toename van 2.90%.
 
 Er is in augustus $126.69 aan dividend ontvangen.
 
@@ -167,11 +167,11 @@ Eind augustus heb ik een aantal veranderingen in mijn portefeuille doorgevoerd o
 Tot slot geef ik een overzicht van de kasstromen eind augustus:
 
 <ul class="blog-list">
-  <li>Beschikbaar kapitaal: $779.37</li>
+  <li>Beschikbaar kapitaal: $779.28</li>
   <li>Inleg: $3,000.00</li>
   <li>Ontvangen dividend (augustus): $126.69</li>
   <li>Deze maand geïnvesteerd: $3,694.83</li>
-  <li>Resterend kapitaal: $211.23</li>
+  <li>Resterend kapitaal: $211.14</li>
 </ul>
 
-Er is nu in totaal $69,115.40 geïnvesteerd, waarvan $826.63 herbelegd dividend. De portefeuille bestaat uit 40 aandelen met een marktwaarde van $74,252.68. In augustus werd een rendement behaald van 0.58%.
+Er is nu in totaal $69,115.49 geïnvesteerd, waarvan $826.63 herbelegd dividend. De portefeuille bestaat uit 40 aandelen met een marktwaarde van $74,252.68. In augustus werd een rendement behaald van 0.58%.

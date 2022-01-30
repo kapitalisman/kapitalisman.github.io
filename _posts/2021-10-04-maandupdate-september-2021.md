@@ -108,11 +108,11 @@ De portefeuille is deze maand behoorlijk in waarde gedaald, maar deed het tegeli
 Tot slot geef ik een overzicht van de kasstromen eind september:
 
 <ul class="blog-list">
-  <li>Beschikbaar kapitaal: $211.23</li>
+  <li>Beschikbaar kapitaal: $211.14</li>
   <li>Inleg: $1,500.00</li>
   <li>Ontvangen dividend (september): $271.65</li>
   <li>Deze maand geïnvesteerd: $1,932.13</li>
-  <li>Resterend kapitaal: $50.75</li>
+  <li>Resterend kapitaal: $50.66</li>
 </ul>
 
-Er is nu in totaal $71,047.53 geïnvesteerd, waarvan $1,098.28 herbelegd dividend. De portefeuille bestaat uit 41 aandelen met een marktwaarde van $73,379.58. In september werd een rendement behaald van -3.41%.
+Er is nu in totaal $71,047.62 geïnvesteerd, waarvan $1,098.28 herbelegd dividend. De portefeuille bestaat uit 41 aandelen met een marktwaarde van $73,379.58. In september werd een rendement behaald van -3.41%.

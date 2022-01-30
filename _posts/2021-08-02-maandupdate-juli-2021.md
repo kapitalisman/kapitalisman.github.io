@@ -83,7 +83,7 @@ In de tabel hieronder staan mijn aankopen eind juli.
 | Aandeel            | Ticker | Aantal | Prijs   |
 |--------------------| -------| -------| --------|
 | Best Buy           | BBY    | 9      | $114.72 |
-| Cigna              | CI     | 5      | $209.71 |
+| Cigna              | CI     | 5      | $209.78 |
 | South State Bank   | SSB    | 16     |  $70.37 |
 | VICI Properties    | VICI   | 16     |  $31.45 |
 
@@ -140,8 +140,8 @@ Tot slot geef ik een overzicht van de kasstromen eind juli:
   <li>Beschikbaar kapitaal: $24.97</li>
   <li>Inleg: $3,000.00</li>
   <li>Ontvangen dividend (juli): $206.98</li>
-  <li>Deze maand geïnvesteerd: $2,452.58</li>
-  <li>Resterend kapitaal: $779.37</li>
+  <li>Deze maand geïnvesteerd: $2,452.67</li>
+  <li>Resterend kapitaal: $779.28</li>
 </ul>
 
-Er is nu in totaal $65,420.57 geïnvesteerd, waarvan $699.94 herbelegd dividend. De portefeuille bestaat uit 40 aandelen met een marktwaarde van $70,278.17. In juli werd een rendement behaald van 0.18%.
+Er is nu in totaal $65,420.66 geïnvesteerd, waarvan $699.94 herbelegd dividend. De portefeuille bestaat uit 40 aandelen met een marktwaarde van $70,278.26. In juli werd een rendement behaald van 0.18%.

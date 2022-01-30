@@ -17,9 +17,9 @@ Ondanks het vuurwerkverbod, kunnen beleggers toch knallend het jaar uit. Mijn po
 
 ## Update
 
-Eind vorige maand was er afgerond nog $141 aan beschikbaar kapitaal. De portefeuille is in december met $5,209.73 in waarde gestegen, wat zich vertaalt in een rendement van 6.51%. Ter vergelijking: in dezelfde maand steeg de S&P 500 index van 4,567.00 naar 4,766.18, een toename van 4.36%.
+Eind vorige maand was er afgerond nog $141 aan beschikbaar kapitaal. De portefeuille is in december met $5,225.73 in waarde gestegen, wat zich vertaalt in een rendement van 6.53%. Ter vergelijking: in dezelfde maand steeg de S&P 500 index van 4,567.00 naar 4,766.18, een toename van 4.36%.
 
-Er is in december $358.32 aan dividend ontvangen.
+Er is in december $374.32 aan dividend ontvangen.
 
 <div class="blog-list">
   <table>
@@ -41,11 +41,12 @@ Er is in december $358.32 aan dividend ontvangen.
       <tr><td><b>WHR</b></td><td>&nbsp;15-12-2021</td><td>&nbsp;Dividend van</td><td>&nbsp;<b>5</b></td><td>&nbsp;aandelen:</td><td>&nbsp;$</td><td>7.00</td></tr>
       <tr><td><b>CI</b></td><td>&nbsp;22-12-2021</td><td>&nbsp;Dividend van</td><td>&nbsp;<b>5</b></td><td>&nbsp;aandelen:</td><td>&nbsp;$</td><td>5.00</td></tr>
       <tr><td><b>LMT</b></td><td>&nbsp;27-12-2021</td><td>&nbsp;Dividend van</td><td>&nbsp;<b>6</b></td><td>&nbsp;aandelen:</td><td>&nbsp;$</td><td>16.80</td></tr>
+      <tr style="color: #0b5394;"><td><b>AFG</b></td><td>&nbsp;30-12-2021</td><td>&nbsp;Dividend van</td><td>&nbsp;<b>8</b></td><td>&nbsp;aandelen:</td><td>&nbsp;$</td><td>16.00</td></tr>
       <tr style="color: #0b5394;"><td><b>EOG</b></td><td>&nbsp;30-12-2021</td><td>&nbsp;Dividend van</td><td>&nbsp;<b>28</b></td><td>&nbsp;aandelen:</td><td>&nbsp;$</td><td>56.00</td></tr>
       <tr><td><b>TROW</b></td><td>&nbsp;30-12-2021</td><td>&nbsp;Dividend van</td><td>&nbsp;<b>6</b></td><td>&nbsp;aandelen:</td><td>&nbsp;$</td><td>6.48</td></tr>
       <tr><td><b>VST</b></td><td>&nbsp;30-12-2021</td><td>&nbsp;Dividend van</td><td>&nbsp;<b>118</b></td><td>&nbsp;aandelen:</td><td>&nbsp;$</td><td>17.70</td></tr>
 	  <tr><td></td><td></td><td></td><td></td><td></td><td></td><td><hr style="background-color:black"></td></tr>
-	  <tr><td></td><td></td><td></td><td></td><td></td><td>&nbsp;$</td><td>358.32</td></tr>
+	  <tr><td></td><td></td><td></td><td></td><td></td><td>&nbsp;$</td><td>374.32</td></tr>
     </tbody>
   </table>
 </div>
@@ -195,11 +196,11 @@ Eind december heb ik verschillende aandelen bijgekocht die hun dividend in het e
 Tot slot geef ik een overzicht van de kasstromen eind december:
 
 <ul class="blog-list">
-  <li>Beschikbaar kapitaal: $141.13</li>
+  <li>Beschikbaar kapitaal: $141.04</li>
   <li>Inleg: $3,000.00</li>
-  <li>Ontvangen dividend (december): $358.32</li>
+  <li>Ontvangen dividend (december): $374.32</li>
   <li>Deze maand geïnvesteerd: $3,397.68</li>
-  <li>Resterend kapitaal: $101.77</li>
+  <li>Resterend kapitaal: $117.68</li>
 </ul>
 
-Er is nu in totaal $80,737.56 geïnvesteerd, waarvan $1,839.33 herbelegd dividend. De portefeuille bestaat uit 39 aandelen met een marktwaarde van $88,256.79. In december werd een rendement behaald van 6.51%.
+Er is nu in totaal $80,737.65 geïnvesteerd, waarvan $1,855.33 herbelegd dividend. De portefeuille bestaat uit 39 aandelen met een marktwaarde van $88,256.79. In december werd een rendement behaald van 6.53%.
