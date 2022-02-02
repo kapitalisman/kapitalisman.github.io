@@ -74,7 +74,7 @@ Hierna volgt een toelichting per aandeel.
   <li>Aantal jaar dividendgroei: 10</li>
 </ul>
 
-**American Tower** is een zogenaamd Real Estate Investment Trust (REIT). Dit type aandelen investeert in vastgoed en is verplicht om minimaal 90% van de inkomsten als dividend aan de aandeelhouders uit te keren. American Tower investeert in communicatietorens wereldwijd en verhoogt sinds 2012 [elk kwartaal](https://www.americantower.com/investor-relations/stock-information/dividend-history/){:target="_blank"} het dividend. Het bedrijf genereert inkomsten door delen van de torens en de omliggende grond te verhuren.
+**American Tower** is een zogenaamd Real Estate Investment Trust (REIT). Dit type aandelen investeert in vastgoed en is verplicht om minimaal 90% van de inkomsten als dividend aan de aandeelhouders uit te keren. American Tower investeert in communicatietorens wereldwijd en verhoogt sinds 2012 [elk kwartaal](https://www.americantower.com/investor-relations/stock-information/dividend-history/){:target="_blank"}{:rel="noopener noreferrer"} het dividend. Het bedrijf genereert inkomsten door delen van de torens en de omliggende grond te verhuren.
 
 <ul class="blog-list">
   <li>Jaarlijks dividend: $24.20</li>
@@ -122,7 +122,7 @@ Hierna volgt een toelichting per aandeel.
   <li>Aantal jaar dividendgroei: 19 / 19</li>
 </ul>
 
-**Merck** is een farmaceutisch bedrijf en onder andere actief op de gebieden oncologie, vaccins en stofwisselingsziekten, waaronder diabetes. Merck is er zelf niet in geslaagd een COVID-19 vaccin te ontwikkelen, maar [kondigde vandaag aan](https://www.merck.com/news/merck-to-help-produce-johnson-barda-to-provide-merck-with-funding-to-expand-mercks-manufacturing-capacity-for-covid-19-vaccines-and-medicines/){:target="_blank"} Johnson & Johnson bij de productie van het Janssen-vaccin te ondersteunen. Zowel de winst als het dividend is de laatste twee jaar bovengemiddeld hard gegroeid, terwijl de koers niet of nauwelijks is gestegen. Het aandeel lijkt nu dus ondergewaardeerd.
+**Merck** is een farmaceutisch bedrijf en onder andere actief op de gebieden oncologie, vaccins en stofwisselingsziekten, waaronder diabetes. Merck is er zelf niet in geslaagd een COVID-19 vaccin te ontwikkelen, maar [kondigde vandaag aan](https://www.merck.com/news/merck-to-help-produce-johnson-barda-to-provide-merck-with-funding-to-expand-mercks-manufacturing-capacity-for-covid-19-vaccines-and-medicines/){:target="_blank"}{:rel="noopener noreferrer"} Johnson & Johnson bij de productie van het Janssen-vaccin te ondersteunen. Zowel de winst als het dividend is de laatste twee jaar bovengemiddeld hard gegroeid, terwijl de koers niet of nauwelijks is gestegen. Het aandeel lijkt nu dus ondergewaardeerd.
 
 <ul class="blog-list">
   <li>Jaarlijks dividend: $36.40</li>
@@ -178,7 +178,7 @@ Hierna volgt een toelichting per aandeel.
   <li>Aantal jaar dividendgroei: 35</li>
 </ul>
 
-**Vistra** is het laatste maar zeker niet minste aandeel van deze maand. Dit nutsbedrijf levert electriciteit en aardgas aan huishoudens en bedrijven. Vistra is vorige maand in de problemen gekomen door [extreem winterweer](https://nos.nl/artikel/2368885-miljoenen-texanen-zonder-stroom-tijdens-extreem-winterweer){:target="_blank"} in de staat Texas. Als gevolg daarvan heeft het aandeel vrijdag, ondanks de aangekondigde dividend verhoging, een kwart van zijn waarde verloren. Dat is wat mij betreft een overdreven reactie van de markt en ik heb die kans aangegrepen om het aandeel op te nemen in mijn portefeuille.
+**Vistra** is het laatste maar zeker niet minste aandeel van deze maand. Dit nutsbedrijf levert electriciteit en aardgas aan huishoudens en bedrijven. Vistra is vorige maand in de problemen gekomen door [extreem winterweer](https://nos.nl/artikel/2368885-miljoenen-texanen-zonder-stroom-tijdens-extreem-winterweer){:target="_blank"}{:rel="noopener noreferrer"} in de staat Texas. Als gevolg daarvan heeft het aandeel vrijdag, ondanks de aangekondigde dividend verhoging, een kwart van zijn waarde verloren. Dat is wat mij betreft een overdreven reactie van de markt en ik heb die kans aangegrepen om het aandeel op te nemen in mijn portefeuille.
 
 <ul class="blog-list">
   <li>Jaarlijks dividend: $70.80</li>
