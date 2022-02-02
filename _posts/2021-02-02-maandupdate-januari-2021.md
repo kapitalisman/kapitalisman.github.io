@@ -82,7 +82,7 @@ Hierna volgt een toelichting per aandeel.
   <li>Aantal jaar dividendgroei: 11</li>
 </ul>
 
-**AT&T** levert wereldwijd telecommunicatie-, media- en technologiediensten. Hierbij moet je onder andere denken aan internet, televisie en (mobiele) telefonie. Daarnaast is AT&T eigenaar van WarnerMedia en diens streamingdienst HBO Max. Dit platform is vooralsnog alleen actief in de Verenigde Staten, maar gaat [dit jaar nog uitbreiden](https://tinyurl.com/web-summit-hbo-max-to-expand){:target="_blank"} naar Latijns-Amerika en Europa. Het aandeel noteert momenteel erg goedkoop met een koers-winstverhouding van 9.
+**AT&T** levert wereldwijd telecommunicatie-, media- en technologiediensten. Hierbij moet je onder andere denken aan internet, televisie en (mobiele) telefonie. Daarnaast is AT&T eigenaar van WarnerMedia en diens streamingdienst HBO Max. Dit platform is vooralsnog alleen actief in de Verenigde Staten, maar gaat [dit jaar nog uitbreiden](https://www.prnewswire.com/news-releases/web-summit-hbo-max-to-expand-into-latin-america-and-europe-by-the-second-half-of-2021-301185785.html){:target="_blank"} naar Latijns-Amerika en Europa. Het aandeel noteert momenteel erg goedkoop met een koers-winstverhouding van 9.
 
 <ul class="blog-list">
   <li>Jaarlijks dividend: $145.60</li>
