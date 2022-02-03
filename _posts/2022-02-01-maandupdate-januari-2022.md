@@ -85,7 +85,9 @@ Mijn portefeuille omvat nu 42 verschillende aandelen. De top drie werd deze maan
 <div class="chart-wrapper">
     <canvas id="weights" width="400" height="200" align="left">Deze grafiek wordt door jouw browser niet ondersteund.</canvas>
 </div>
+<script src="{{site.baseurl}}/assets/js/helper/common.js"></script>
 <script src="{{site.baseurl}}/assets/js/charts/2022-02-01-script.js"></script>
+<script src="{{site.baseurl}}/assets/js/helper/maandupdate.js"></script>
 
 Hierna volgt een toelichting per aandeel.
 
