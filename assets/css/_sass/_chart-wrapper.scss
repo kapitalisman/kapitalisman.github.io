@@ -2,3 +2,46 @@
     max-width: 800px;
     margin: 2rem auto 1.5rem auto; /* top right bottom left */
 }
+
+.flex-container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    width: 100%;
+    height: auto;
+}
+
+.canvas-wrapper {
+    width: 50%;
+    padding: 10px;
+}
+
+@include media-query(1200px) {
+    .canvas-wrapper {
+        width: 100%;
+    }
+    .flex-container {
+        max-width: 800px;
+        margin: 2rem auto 1.5rem auto; /* top right bottom left */
+    }
+}
+
+.canvas-wrapper canvas {
+    width: 100%;
+}
+
+.iframe-wrapper {
+    position: relative; /* enables absolute positioning for the iframe itself */
+    padding-bottom: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+    height: 0; /* padding-bottom gives the element the height it needs */
+    overflow: hidden; /* any content protruding outside of this element will be hidden from view */
+}
+
+.iframe-wrapper iframe {
+    position: absolute; /* because the containing element has a height of 0 */
+    top: 0; /* to position the iframe correctly in the containing element */
+    left: 0;
+    width: 100%; /* ensures that the iframe takes up 100% of the space used by the containing element */
+    height: 100%;
+    margin: 0 !important;
+}
