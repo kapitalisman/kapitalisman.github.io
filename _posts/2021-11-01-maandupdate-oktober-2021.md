@@ -2,7 +2,7 @@
 title: Nog hoger
 subtitle: Maandupdate<br>Oktober 2021
 image: /assets/images/duik.jpg
-description: Aandelen in de sector Energie deden het goed.
+description: Maandupdate Oktober 2021
 author: sam
 categories:
     - dividend

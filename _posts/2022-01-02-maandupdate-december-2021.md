@@ -2,7 +2,7 @@
 title: Knallend het jaar uit
 subtitle: Maandupdate<br>December 2021
 image: /assets/images/fire.jpg
-description: Maandupdate december 2021
+description: Maandupdate December 2021
 author: sam
 categories:
     - dividend

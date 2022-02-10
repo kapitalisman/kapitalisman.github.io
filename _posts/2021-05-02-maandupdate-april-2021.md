@@ -2,7 +2,7 @@
 title: Home Depot verkocht
 subtitle: Maandupdate<br>April 2021
 image: /assets/images/update.jpg
-description: Home Depot verkocht.
+description: Maandupdate April 2021
 author: sam
 categories:
     - dividend

@@ -2,7 +2,7 @@
 title: Het eerste dividend
 subtitle: Maandupdate<br>Maart 2021
 image: /assets/images/eerste.jpg
-description: Het eerste dividend is binnen.
+description: Maandupdate Maart 2021
 author: sam
 categories:
     - dividend

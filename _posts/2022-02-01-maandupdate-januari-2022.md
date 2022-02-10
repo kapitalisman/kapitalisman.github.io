@@ -2,7 +2,7 @@
 title: Eerste verjaardag
 subtitle: Maandupdate<br>Januari 2022
 image: /assets/images/winter.jpg
-description: Maandupdate januari 2022
+description: Maandupdate Januari 2022
 author: sam
 categories:
     - maandupdate

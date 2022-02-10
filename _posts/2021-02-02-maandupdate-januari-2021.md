@@ -2,7 +2,7 @@
 title: De geboorte van mijn aandelen portefeuille
 subtitle: Maandupdate<br>Januari 2021
 image: /assets/images/geboorte.jpg
-description: Een ovezicht van de eerste vijf aandelen die de geboorte van mijn aandelen portefeuille inluiden.
+description: Maandupdate Januari 2021
 author: sam
 categories:
     - dividend

@@ -1,7 +1,8 @@
 ---
 title: Extra inkomsten met opties
+subtitle: Opties
 image: /assets/images/options.jpg
-description: Door het verkopen van put opties kun je extra inkomsten genereren.
+description: Opties
 author: sam
 categories:
     - opties

@@ -2,7 +2,7 @@
 title: Heers en Verdeel
 subtitle: Maandupdate<br>Juni 2021
 image: /assets/images/vultures.jpg
-description: Focus op sector allocatie.
+description: Maandupdate Juni 2021
 author: sam
 categories:
     - dividend

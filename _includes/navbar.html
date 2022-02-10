@@ -4,24 +4,27 @@
 			<img src="/assets/img/logo.png" class="d-inline-block align-top logo" alt="{{site.title}}">
 			{{site.title}}
 		</a>
-		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
+			aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
 			<span class="navbar-toggler-icon"></span>
 		</button>
 		<div class="collapse navbar-collapse" id="navbarNavAltMarkup">
 			<div class="navbar-nav ml-auto">
 				{% for item in site.data.nav %}
-					{% if item.sublinks %}
-					<li class="nav-item dropdown">
-						<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{item.title}}</a>
-						<div class="dropdown-menu" aria-labelledby="navbarDropdown">
-							{% for sublink in item.sublinks %}
-								<a class="dropdown-item nav-link" href="{{sublink.link}}">{{sublink.title}}</a>
-							{% endfor %}
-						</div>
-					</li>
-					{% else %}
-					<a class="nav-item nav-link {% if page.url == item.link %}active{% endif %}" href="{{item.link}}">{{item.title}}</a>
-					{% endif %}
+				{% if item.sublinks %}
+				<li class="nav-item dropdown">
+					<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+						data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{item.title}}</a>
+					<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+						{% for sublink in item.sublinks %}
+						<a class="dropdown-item nav-link" href="{{sublink.link}}">{{sublink.title}}</a>
+						{% endfor %}
+					</div>
+				</li>
+				{% else %}
+				<a class="nav-item nav-link {% if page.url == item.link %}active{% endif %}"
+					href="{{item.link}}">{{item.title}}</a>
+				{% endif %}
 				{% endfor %}
 			</div>
 		</div>

@@ -2,7 +2,7 @@
 title: Winter
 subtitle: Maandupdate<br>Augustus 2021
 image: /assets/images/vogelvoer.jpg
-description: Aandelen ruilen.
+description: Maandupdate Augustus 2021
 author: sam
 categories:
     - dividend

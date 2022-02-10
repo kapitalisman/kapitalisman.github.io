@@ -2,7 +2,7 @@
 title: Pep si, pep no
 subtitle: Maandupdate<br>Juli 2021
 image: /assets/images/parrot.jpg
-description: PepsiCo verkocht.
+description: Maandupdate Juli 2021
 author: sam
 categories:
     - dividend

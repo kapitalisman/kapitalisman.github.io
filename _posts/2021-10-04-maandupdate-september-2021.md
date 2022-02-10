@@ -2,7 +2,7 @@
 title: Energie
 subtitle: Maandupdate<br>September 2021
 image: /assets/images/energie.jpg
-description: Aandelen in de sector Energie deden het goed.
+description: Maandupdate September 2021
 author: sam
 categories:
     - dividend

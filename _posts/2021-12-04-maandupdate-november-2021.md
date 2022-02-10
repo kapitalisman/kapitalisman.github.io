@@ -2,7 +2,7 @@
 title: November rain
 subtitle: Maandupdate<br>November 2021
 image: /assets/images/regen.jpg
-description: Het regent dividendverhogingen.
+description: Maandupdate November 2021
 author: sam
 categories:
     - dividend
