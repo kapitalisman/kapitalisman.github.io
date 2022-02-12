@@ -31,7 +31,7 @@
 .blog-list table {
   font-family: monospace;
   border: none;
-  cellspacing: 3;
+  border-spacing: 3;
   margin: 0;
   border-collapse: separate;
   width: auto;
@@ -64,3 +64,8 @@
   text-align: left;
 }
 
+.form-footer {
+  font-size: 0.75rem;
+  color: #828282;
+  margin-top: 1rem;
+}
