@@ -32,7 +32,3 @@ description: Doelstellingen op jaarbasis.
 </div>
 
 ---
-
-<!--
-⌚✅❌
--->

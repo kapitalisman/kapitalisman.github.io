@@ -115,3 +115,16 @@ months:
     - oktober
     - november
     - december
+
+collections:
+  products:
+    title: Products
+    output: true
+    permalink: "/shop/:path/"
+
+defaults:
+- scope:
+    path: ''
+    type: products
+  values:
+    layout: product

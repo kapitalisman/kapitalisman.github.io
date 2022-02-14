@@ -1,0 +1,31 @@
+---
+layout: page
+---
+
+<div class="row">
+    <div class="col-md-12">
+        <p>
+            {{ content }}
+        </p>
+
+        <ul id="productlist" style="margin-top: 2rem;">
+            {% assign items = site.products | sort: 'order_number' %}
+            {% for item in items %}
+            {% assign price_split = item.variants[0].price | round: 2 | split: "." %}
+            {% assign integral = price_split[0] %}
+            {% assign fractional = price_split[1] | append: "00" | truncate: 2, "" %}
+            {% if fractional == '00' %}{% assign fractional = '-' %}{% endif %}
+            <li>
+                <a href="{{ item.url }}">
+                    <div class="productimage" style="background-image: url({{ site.baseurl }}{{ item.image }});">
+                        <div class="overlay"></div>
+                    </div>
+                    <h2>{{ item.title }}</h2>
+                    <span>{% if item.variants[0].price > 0 %}&euro; {{ integral }}.{{ fractional }}{% else
+                        %}gratis{% endif %}</span>
+                </a>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+</div>

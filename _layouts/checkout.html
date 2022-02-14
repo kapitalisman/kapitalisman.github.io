@@ -1,0 +1,71 @@
+---
+layout: page
+---
+
+<!-- webshop checkout -->
+<div class="row">
+    <div class="col-md-12">
+
+        <h1>{{ page.title }}</h1>
+
+        {{ content }}
+
+        <div id="checkout">
+            <form action="/shop/paylink/" method="post" onchange="setAddons(this)">
+                <input name="_gotcha" style="display:none" type="text">
+                <input name="_to" type="hidden" value="administratie@kapitalisman.nl">
+                <input name="_subject" value="Nieuwe bestelling!" type="hidden">
+                <input name="ordernumber" value="" type="hidden">
+
+                <div class="half">
+                    <label for="firstname">Voornaam</label>
+                    <input type="text" name="firstname" required />
+                </div>
+
+                <div class="half">
+                    <label for="lastname">Achternaam</label>
+                    <input type="text" name="lastname" required />
+                </div>
+
+                <div>
+                    <label for="email">E-mailadres</label>
+                    <input type="email" name="email" required />
+                </div>
+
+                <div>
+                    <label>Extra donatie</label>
+                    <label><input type="radio" name="wrapped" value="no" required> Nee</label>
+                    <label><input type="radio" name="wrapped" data-title="Donatie" value="yes" data-price="2" required>
+                        Ja (+ &euro; 2.00)</label>
+                </div>
+
+                <div>
+                    <label for="message">Bericht</label>
+                    <textarea name="message"></textarea>
+                </div>
+
+                <div class="submitbutton"><a href="/shop/cart/" class="gray">terug naar het mandje</a><input
+                        type="submit" value="{{ page.button }}" onclick="setOrderNumber(this.parentNode.parentNode);" />
+                </div>
+
+            </form>
+            <div>
+                <label style="padding-top: 0.8rem;">Totaalbedrag</label>
+                <div id="checkoutcalculation">
+                    <span>Mandje: </span>€ 0.00
+                </div>
+                <p><em>Betalingen zijn 100% veilig en worden afgehandeld door Plink, aangeboden door Mollie.</em></p>
+            </div>
+        </div>
+
+
+        <div style="margin-top: 50px; position: relative; top: 30px;">
+            <ul id="checkout_progress">
+                <li class="past"><span><a href="/shop/cart/">Mandje</a></span></li>
+                <li class="current"><span><a href="#">Afrekenen</a></span></li>
+                <li><span><span>Betalen</span></span></li>
+            </ul>
+        </div>
+
+    </div>
+</div>

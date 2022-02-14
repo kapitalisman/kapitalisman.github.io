@@ -1,0 +1,47 @@
+---
+layout: page
+---
+
+<!-- webshop cart -->
+<div class="row">
+    <div class="col-md-12">
+        <h1>{{ page.title }}</h1>
+
+        {{ content }}
+
+        <div id="shoppingcart">
+            <table celpadding="0" cellspacing="0">
+                <thead>
+                    <tr>
+                        <th></th>
+                        <th></th>
+                        <th></th>
+                        <th>Aantal</th>
+                        <th>&nbsp;&nbsp;Bedrag</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td colspan="6" style="text-align: center;">Er zit nog niets in je mandje.</td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <div>&euro; <span class="carttotal">0.00</span></div>
+
+            <form action="/shop/checkout">
+                <div class="submitbutton"><a href="/shop" class="gray">verder winkelen</a><input type="submit"
+                        value="Afrekenen" /></div>
+            </form>
+
+        </div>
+
+        <div style="margin-top: 50px; position: relative; top: 30px;">
+            <ul id="checkout_progress">
+                <li class="current"><span><a href="#">Mandje</a></span></li>
+                <li><span><span>Afrekenen</span></span></li>
+                <li><span><span>Betalen</span></span></li>
+            </ul>
+        </div>
+    </div>
+</div>
