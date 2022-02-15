@@ -5,11 +5,11 @@ form > div {padding-top: 0.8rem; clear: both;}
 form > div.half {width: 47.5%; float: left;}
 form > div.half + .half {margin-left: 5%; clear: none;}
 label {display: block; margin-bottom: 0.3rem;}
+label .small {font-size: 0.9rem; color: #828282;}
 textarea, input, select {
-    font-size: 0.8rem; 
-    height: 1.83rem; 
-    line-height: 1rem; 
-    border: 0.0625rem solid #dddddd; 
+    font-size: 0.8rem;
+    line-height: 1rem;
+    border: 0.0625rem solid #dddddd;
     border-radius: 0.25rem;
     width: calc(100% - 1.24rem);
     padding: 0.1875rem 0.625rem;
@@ -17,26 +17,16 @@ textarea, input, select {
     color: #777777;
 }
 select {padding: 0.6rem; height: auto; line-height: 1.4; width: 100%;}
-textarea {height: auto; line-height: 1.4; min-width: calc(100% - 1.24rem); max-width: calc(100% - 1.24rem); padding: 0.6rem;}
+textarea {height: auto; line-height: 1.4; min-width: calc(100% - 1.24rem); width: 100%; padding: 0.6rem;}
 input[type="button"], input[type="submit"], input[type="radio"], input[type="checkbox"] {border: 0; width: auto;}
 input[type="radio"], input[type="checkbox"] {height: auto; line-height: auto; margin-right: 0.4rem; vertical-align: middle; position: relative; bottom: 0.1rem;}
 .radio {position: relative; top: 0.125rem;}
 .radio + .radio {padding-top: 0;}
 input[type='number'] {-moz-appearance: textfield;}
 input::-webkit-outer-spin-button, input::-webkit-inner-spin-button {-webkit-appearance: none;}
-.btn, input[type="submit"] {
-    background: #d9230f; 
-    font-weight: bold; 
-    color: rgba(255,255,255,0.75); 
-    text-decoration: none;
-    padding: 0.35rem 0.7rem;
-    border: 0;
-    cursor: pointer;
-    border-radius: 0.25rem;
-}
-.btn:hover {color: rgba(255,255,255,0.9);}
+
 input[type="number"] {-moz-appearance: textfield;}
-input[type="number"].quantity {width: 2.5rem; min-width: 2.5rem; text-align: center;}
+input[type="number"].quantity {width: 2.5rem; min-width: 2.5rem; text-align: center; display: inline;}
 input::-webkit-outer-spin-button, 
 input::-webkit-inner-spin-button {-webkit-appearance: none;}
 select::-ms-expand {display: none;}
@@ -122,6 +112,7 @@ select {
 #shoppingcart > table tr > *:first-child {padding-right: 1.25rem; width: 4rem;}
 #shoppingcart > table tr > th {border-bottom: 0.125rem solid #dddddd;; padding: 0 0 0.5rem; border-left: none; border-right: none;}
 #shoppingcart > table tr > td {border-bottom: 0.0625rem solid #dddddd; border-left: none; border-right: none;}
+#shoppingcart > table tr td > a {font-size: 0.875rem;}
 #shoppingcart > table tr > th:nth-child(2) {width: 50%;}
 #shoppingcart .productavatar {display: block; width: 4rem; height: 4rem; border-radius: 100%; background-size: cover; background-position: 50% 50%;}
 @media only screen and (max-width: 800px)  {
@@ -135,12 +126,12 @@ select {
     #checkout > div {max-width: 100%;}
     #checkout > form {margin-right: 0rem;}
 }
-#checkoutcalculation {background: rgba(0,0,0,0.1); border-radius: 0.25rem; padding: 0.75rem 1rem 1rem; text-align: right; margin-bottom: 1rem;}
+#checkoutcalculation {background: rgba(0,0,0,0.1); border-radius: 0.25rem; padding: 0.75rem 1rem 0.75rem; text-align: right; margin-bottom: 1rem;}
 #checkoutcalculation span {float: left;}
 #checkoutcalculation .sum {border-top: 0.1rem solid rgba(0,0,0,0.5); padding-top: 0.1rem; margin-top: 0.35rem;}
 
 .submitbutton {text-align: right; margin-top: 1rem;}
-.submitbutton a {margin: 0 0 0.5rem; display: inline-block;}
+.submitbutton a {margin: 0 0 0.5rem; display: inline-block; font-size: 0.875rem;}
 .submitbutton input {margin: 0.5rem 0 1rem 2rem;}
 
 .product form {margin: 0 0 1.5rem;}
@@ -180,9 +171,9 @@ body.product .content h2 {padding-top: 0; position: relative; bottom: 0.2rem;}
 
 
 
-#checkout_progress {display: block; text-align: center;}
+#checkout_progress {display: block; text-align: center; font-size: 0.875rem;}
 #checkout_progress li {width: 110px; text-align: left; display: inline-block; border-top: 1px solid #dddddd; padding-top: 8px;}
-#checkout_progress li.past {border-color: #d9230f;}
+#checkout_progress li.past {border-color: $brand-color;}
 #checkout_progress li:last-child {border: 0; width: 55px;}
 #checkout_progress li > span > * {
     white-space: nowrap;
@@ -196,4 +187,4 @@ body.product .content h2 {padding-top: 0; position: relative; bottom: 0.2rem;}
     box-shadow: 0px 0px 0.1px 1px #bbb; background: white;
 }
 #checkout_progress li.past > span:before,
-#checkout_progress li.current > span:before {box-shadow: 0px 0px 0.1px 1px #d9230f; background: #d9230f;}
+#checkout_progress li.current > span:before {box-shadow: 0px 0px 0.1px 1px $brand-color; background: $brand-color;}

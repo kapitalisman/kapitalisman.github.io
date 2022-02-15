@@ -2,47 +2,41 @@
 layout: page
 ---
 
-<div class="row">
-    <div class="col-md-12">
+<div class="productpage">
+    {% include productimages.html %}
 
-        <div class="productpage">
-            {% include productimages.html %}
+    <div class="text">
 
-            <div class="text">
+        <h2 class="double-u">{{ page.title }}</h2>
+        {% if page.variants[0].price > 0 %}<h2>&euro; <span class="productprice">{% assign price_split =
+                page.variants[0].price | round: 2 | split: "." %}{% assign integral = price_split[0] %}{%
+                assign fractional = price_split[1] | append: "00" | truncate: 2, "" %}{{ integral }}.{{
+                fractional }}</span></h2>{% else %}
+        {% include share-buttons.html %}
+        {% endif %}
 
-                <h2 class="double-u">{{ page.title }}</h2>
-                {% if page.variants[0].price > 0 %}<h2>&euro; <span class="productprice">{% assign price_split =
-                        page.variants[0].price | round: 2 | split: "." %}{% assign integral = price_split[0] %}{%
-                        assign fractional = price_split[1] | append: "00" | truncate: 2, "" %}{{ integral }}.{{
-                        fractional }}</span></h2>{% else %}
-                {% include share-buttons.html %}
-                {% endif %}
-
-                <form action="/shop/cart" onsubmit="return addToCart(this)">
-                    {% if page.variants[1].name %}
-                    <div>
-                        <label for="variant">Kies een {{ page.variant_type }}:</label>
-                        <select onchange="updateBuyButton(this)" id="variant" name="variant">
-                            {% for item in page.variants %}<option data-sku="{{ item.sku }}"
-                                data-variantname="{{ item.name }}" data-price="{{ item.price }}">{{ item.name }}
-                            </option>{% endfor %}
-                        </select>
-                    </div>
-                    {% endif %}
-                    {% if page.variants[0].price > 0 %}
-                    <div>
-                        <input type="submit" data-url="{{ page.url }}" data-sku="{{ page.variants[0].sku }}"
-                            data-title="{{ page.title }}" data-varianttype="{{ page.variant_type }}"
-                            data-variantname="{{ page.variants[0].name }}" data-price="{{ page.variants[0].price }}"
-                            data-image="{{ page.image }}" value="Doe in mandje" />
-                    </div>
-                    {% endif %}
-
-                </form>
-
-                {{ content }}
+        <form action="/shop/cart" onsubmit="return addToCart(this)">
+            {% if page.variants[1].name %}
+            <div>
+                <label for="variant">Kies een {{ page.variant_type }}:</label>
+                <select onchange="updateBuyButton(this)" id="variant" name="variant" class="form-control">
+                    {% for item in page.variants %}<option data-sku="{{ item.sku }}" data-variantname="{{ item.name }}"
+                        data-price="{{ item.price }}">{{ item.name }}
+                    </option>{% endfor %}
+                </select>
             </div>
-        </div>
+            {% endif %}
+            {% if page.variants[0].price > 0 %}
+            <div>
+                <input type="submit" data-url="{{ page.url }}" data-sku="{{ page.variants[0].sku }}"
+                    data-title="{{ page.title }}" data-varianttype="{{ page.variant_type }}"
+                    data-variantname="{{ page.variants[0].name }}" data-price="{{ page.variants[0].price }}"
+                    data-image="{{ page.image }}" value="Doe in mandje" class="btn btn-sm btn-block btn-danger" />
+            </div>
+            {% endif %}
 
+        </form>
+
+        {{ content }}
     </div>
 </div>

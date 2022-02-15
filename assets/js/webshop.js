@@ -98,14 +98,14 @@ function populateCart() {
     var cart = JSON.parse(localStorage.getItem("cart")), i;
     var carttotal = 0;
 
-    document.getElementById('shoppingcart').querySelector('tbody').innerHTML = '<tr><td colspan="6" style="text-align: center;">Your shopping cart is currently empty.</td></tr>';
+    document.getElementById('shoppingcart').querySelector('tbody').innerHTML = '<tr><td colspan="6" style="text-align: center;">Er zit nog niets in je mandje.</td></tr>';
 
     if (cart && cart.length) {
         document.getElementById('shoppingcart').querySelector('tbody').innerHTML = '';
         for (i = 0; i < cart.length; ++i) {
             var newline = '<tr><td><a href="' + cart[i].url + '" class="productavatar" style="background-image: url(\'' + cart[i].image + '\');" title="' + cart[i].sku + '"></a></td><td>' + cart[i].title;
             if (cart[i].varianttype) newline += '<br />' + capitalizeFirstLetter(cart[i].varianttype) + ': ' + cart[i].variantname;
-            newline += '<br />&euro;&nbsp;' + parseFloat(cart[i].price).toFixed(2) + '</td><td><a href="javascript:removeFromCart(\'' + cart[i].sku + '\');">remove</a></td><td><input class="quantity" type="number" value ="' + cart[i].quantity + '" min="0" max="99" onchange="updateQuantity(\'' + cart[i].sku + '\',this.value)" /></td><td>&euro;&nbsp;' + (cart[i].quantity * cart[i].price).toFixed(2) + '</td></tr>';
+            newline += '<br />&euro;&nbsp;' + parseFloat(cart[i].price).toFixed(2) + '</td><td><a href="javascript:removeFromCart(\'' + cart[i].sku + '\');">verwijder</a></td><td><input class="form-control form-control-sm quantity" type="number" value ="' + cart[i].quantity + '" min="0" max="99" onchange="updateQuantity(\'' + cart[i].sku + '\',this.value)" /></td><td>&euro;&nbsp;' + (cart[i].quantity * cart[i].price).toFixed(2) + '</td></tr>';
             document.getElementById('shoppingcart').querySelector('tbody').innerHTML += newline;
             carttotal += parseFloat(cart[i].quantity * cart[i].price);
         }
