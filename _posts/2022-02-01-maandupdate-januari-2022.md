@@ -175,11 +175,11 @@ Eind januari heb ik negen aankopen gedaan. Het jaarlijks te verwachten dividend 
 
 Het jaarlijks te verwachten dividend is 79.0% van de beoogde $4,000 in 2022. De voortgang ten aanzien van de overige [doelstellingen]({% link _pages/goals.md %}) staat in onderstaande tabel.
 
-| Doel     | Gerealiseerd | Doelstelling | Procentueel |
-|----------| -------------| -------------| ------------|
-| Inleg    | $3,000       | $15,000      | 20.0%       |
-| Dividend | $299         | $3,200       | 9.4%        |
-| Opties   | $4,661       | $15,000      | 31.1%       |
+| Doel     | Gerealiseerd | Doelstelling | Pct.  |
+|----------| -------------| -------------| ------|
+| Inleg    | $3,000       | $15,000      | 20.0% |
+| Dividend | $299         | $3,200       | 9.4%  |
+| Opties   | $4,661       | $15,000      | 31.1% |
 
 Tot slot geef ik een overzicht van de kasstromen eind januari:
 
