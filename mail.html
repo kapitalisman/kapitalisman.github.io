@@ -17,16 +17,17 @@ layout: mail
 
 <!-- posts -->
 {% for post in site.posts limit:3 %}
-<a href="{{site.url}}{{post.url}}" style="text-decoration:none;color:#444;">
-    <div style="margin:35px auto;padding:20px 20px;border:1px solid #ddd;border-radius:2px;max-width:600px;">
+<div style="margin:35px auto;padding:20px 20px;border:1px solid #ddd;border-radius:2px;max-width:600px;">
+    <a href="{{site.url}}{{post.url}}" style="text-decoration:none;color:#444;">
         <h2 style="font-weight:400">{{post.description}}: {{post.title}}</h2>
-        <p style="font-weight:100;">{% assign m = post.date | date: "%-m" | minus: 1 %}{{ post.date | date: "%-d" }} {{
-            site.months[m] }} {{
-            post.date |
-            date: "%Y" }}</p>
-        <p>{{post.content | strip_html | truncate: 190 }} &raquo;</p>
-    </div>
-</a>
+    </a>
+    <p style="font-weight:100;">{% assign m = post.date | date: "%-m" | minus: 1 %}{{ post.date | date: "%-d" }} {{
+        site.months[m] }} {{
+        post.date |
+        date: "%Y" }}</p>
+    <p>{{post.content | strip_html | truncate: 190 }} &raquo;</p>
+</div>
+
 {% if forloop.index == 1 %}
 <p style="text-align:center;font-size:27px;font-weight:600;">Eerder verschenen</p>
 {% endif %}

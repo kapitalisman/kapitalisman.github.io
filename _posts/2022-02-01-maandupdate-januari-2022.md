@@ -167,11 +167,19 @@ Hierna volgt een toelichting per aandeel.
 
 ## Opties
 
-In januari heb ik negen nieuwe posities geopend, twee bestaande posities doorgerold en één positie gesloten. Er zijn deze maand geen opties verlopen. Het netto resultaat van deze handelingen is een optie inkomen van $4,661.19. Er is $1,469.19 aan inkomsten veilig gesteld. Er zijn dan geen contractuele verplichtingen meer.
+In januari heb ik negen nieuwe posities geopend, twee bestaande posities doorgerold en één positie gesloten. Er zijn deze maand geen posities geëxpireerd. Het netto resultaat van deze handelingen is een optie inkomen van $4,661.19. Er is $1,469.19 aan inkomsten veilig gesteld. Er zijn dan geen contractuele verplichtingen meer.
 
 ## Samenvatting
 
 Eind januari heb ik negen aankopen gedaan. Het jaarlijks te verwachten dividend is nu $3,158.86 en het dividendrendement op kosten 3.64% (was 3.69%).
+
+Het jaarlijks te verwachten dividend is 79.0% van de beoogde $4,000 in 2022. De voortgang ten aanzien van de overige [doelstellingen]({% link _pages/goals.md %}) staat in onderstaande tabel.
+
+| Doel     | Gerealiseerd | Doelstelling | Procentueel |
+|----------| -------------| -------------| ------------|
+| Inleg    | $3,000       | $15,000      | 20.0%       |
+| Dividend | $299         | $3,200       | 9.4%        |
+| Opties   | $4,661       | $15,000      | 31.1%       |
 
 Tot slot geef ik een overzicht van de kasstromen eind januari:
 
