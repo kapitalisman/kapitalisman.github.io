@@ -68,7 +68,7 @@ In {{ page.month }} heb ik geen aandelen verkocht. Defensie aandelen zoals Lockh
 In de tabel hieronder staan mijn aankopen eind {{ page.month }}. Ik heb in beide bedrijven één keer eerder aandelen gekocht. Deze maand kon ik mijn posities verdubbelen beneden de kostprijs van mijn eerdere aankopen.
 
 | Aandeel            | Ticker | Aantal | Prijs   |
-|--------------------| -------| -------| --------|
+|--------------------| -------| ------:| --------|
 | Texas Instruments  | TXN    | 6      | $168.75 |
 | Whirlpool          | WHR    | 5      | $199.47 |
 
@@ -113,11 +113,11 @@ Eind {{ page.month }} heb ik twee aankopen gedaan. Het jaarlijks te verwachten d
 
 Het jaarlijks te verwachten dividend is 81.7% (was 79.0%) van de beoogde $4,000 in 2022. De voortgang ten aanzien van de overige [doelstellingen]({% link _pages/goals.md %}) staat in onderstaande tabel.
 
-| Doel     | Gerealiseerd | Doelstelling | Pct.  |
-|----------| -------------| -------------| ------|
-| Inleg    | $4,500       | $15,000      | 30.0% |
-| Dividend | $428         | $3,200       | 13.4% |
-| Opties   | $5,192       | $15,000      | 34.6% |
+| Doel     | Gerealiseerd | Doelstelling | Pct. |
+|----------| -------------| -------------| ----:|
+| Inleg    | $4,500       | $15,000      | 30%  |
+| Dividend | $428         | $3,200       | 13%  |
+| Opties   | $5,192       | $15,000      | 34%  |
 
 Tot slot geef ik een overzicht van de kasstromen eind {{ page.month }}:
 
