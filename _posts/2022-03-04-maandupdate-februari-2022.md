@@ -12,6 +12,8 @@ layout: post
 
 Terwijl ik deze maandupdate schrijf, doorbreekt mijn aandelen portefeuille de grens van $100.000. Een mooi moment, maar ik realiseer mij heel goed dat dit morgen weer anders kan zijn. Daarom stel ik ook geen [doelen]({% link _pages/goals.md %}) die afhankelijk zijn van de marktwaarde. Die is namelijk sterk afhankelijk van het sentiment op de beurs en dat ligt ver buiten mijn cirkel van invloed. Mijn doelen zijn gericht op zaken waar ik zelf controle over heb, en die tegelijkertijd de kans op een goed resultaat (lees: hogere marktwaarde) wel vergroten.
 
+Het is vanaf nu ook mogelijk om te [abonneren](https://mail.kapitalisman.nl/){:target="_blank"}{:rel="noopener noreferrer"} op mijn nieuwsbrief **Kapitalismail**. Dan ben je direct op de hoogte als er nieuwe content verschijnt.
+
 ## Update
 
 Eind vorige maand bestond de portefeuille uit 42 aandelen met een marktwaarde van $96,494.50. Die is in {{ page.month }} met $627.86 in waarde gestegen, wat zich vertaalt in een rendement van 0.65%. Ter vergelijking: in dezelfde maand daalde de S&P 500 index van 4,515.55 naar 4,373.94, een afname van 3.14%.
