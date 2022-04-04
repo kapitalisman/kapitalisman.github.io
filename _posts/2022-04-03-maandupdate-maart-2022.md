@@ -16,7 +16,7 @@ Het is sinds vorige maand ook mogelijk om te [abonneren](https://mail.kapitalism
 
 ## Update
 
-Eind vorige maand bestond de portefeuille uit 42 aandelen met een marktwaarde van $99,003.29. Die is in {{ page.month }} met $3,646.72 in waarde gestegen, wat zich vertaalt in een rendement van 3.17%. Ter vergelijking: in dezelfde maand steeg de S&P 500 index van 4,373.94 naar 4,530.41, een toename van 3.58%.
+Eind vorige maand bestond de portefeuille uit 42 aandelen met een marktwaarde van $99,003.29. Die is in {{ page.month }} met $3,134.23 in waarde gestegen, wat zich vertaalt in een rendement van 3.17%. Ter vergelijking: in dezelfde maand steeg de S&P 500 index van 4,373.94 naar 4,530.41, een toename van 3.58%.
 
 Er is in {{ page.month }} $333.73 aan dividend ontvangen.
 
