@@ -62,7 +62,7 @@ In {{ page.month }} kondigden de volgende aandelen een aanpassing van het divide
   </table>
 </div>
 
-Door deze wijzigingen daalt het jaarlijks te verwachten dividend van de portefeuille met $15.82. De dividendverlaging van AT&T (T) komt niet als een verassing. Het bedrijf zal begin april WarnerMedia afstoten en heeft het dividend herijkt in lijn met eerder gecommuniceerde verwachtingen. WarnerMedia zal fuseren met Discovery Communications en als Warner Bros. Discovery (WBD) verder gaan.
+Door deze wijzigingen daalt het jaarlijks te verwachten dividend van de portefeuille met $15.82. De dividendverlaging van AT&T (T) komt niet als een verrassing. Het bedrijf zal begin april WarnerMedia afstoten en heeft het dividend herijkt in lijn met eerder gecommuniceerde verwachtingen. WarnerMedia zal fuseren met Discovery Communications en als Warner Bros. Discovery (WBD) verder gaan.
 
 Nadat de markten op 4 april gesloten zijn, ontvangt iedere aandeelhouder van AT&T tijdelijk twee extra posities voordat de markten op 5 april weer open gaan. Het gaat hier om de tickers TWI (AT&T zonder WarnerMedia) en WBDWV (Warner Bros. Discovery). Op die manier is het alvast mogelijk om beide bedrijven afzonderlijk te verhandelen alvorens de fusie volledig is afgerond. Vanaf het moment dat WBD verhandelbaar is, komen de tijdelijke posities te vervallen.
 
