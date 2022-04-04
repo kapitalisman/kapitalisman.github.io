@@ -5,7 +5,7 @@ image: /assets/images/winter.jpg
 description: Maandupdate Januari 2022
 author: sam
 categories:
-    - maandupdate
+  - maandupdate
 layout: post
 ---
 
@@ -68,26 +68,26 @@ In januari heb ik geen aandelen verkocht. Ik overweeg wel om AT&T in te ruilen v
 
 In de tabel hieronder staan mijn aankopen eind januari.
 
-| Aandeel            | Ticker | Aantal | Prijs   |
-|--------------------| -------| ------:| --------|
-| Ally Financial     | ALLY   | 24     | $46.76  |
-| Booz Allen         | BAH    | 6      | $75.64  |
-| Best Buy           | BBY    | 10     | $98.63  |
-| Bristol-Myers      | BMY    | 16     | $64.82  |
-| H&R Block          | HRB    | 26     | $22.54  |
-| Oracle             | ORCL   | 7      | $81.42  |
-| Snap-On            | SNA    | 4      | $205.94 |
-| T. Rowe Price      | TROW   | 10     | $151.92 |
-| Texas Instruments  | TXN    | 6      | $177.49 |
+| Aandeel           | Ticker | Aantal | Prijs   |
+| ----------------- | ------ | -----: | ------- |
+| Ally Financial    | ALLY   |     24 | $46.76  |
+| Booz Allen        | BAH    |      6 | $75.64  |
+| Best Buy          | BBY    |     10 | $98.63  |
+| Bristol-Myers     | BMY    |     16 | $64.82  |
+| H&R Block         | HRB    |     26 | $22.54  |
+| Oracle            | ORCL   |      7 | $81.42  |
+| Snap-On           | SNA    |      4 | $205.94 |
+| T. Rowe Price     | TROW   |     10 | $151.92 |
+| Texas Instruments | TXN    |      6 | $177.49 |
 
 Mijn portefeuille omvat nu 42 verschillende aandelen. De top drie werd deze maand gevormd door aandelen uit de energie sector. EOG Resources (+25.5%), Chevron (+11.9%) en TC Energy (+11.0%) deden het erg goed in januari. Oliebedrijven zijn momenteel extreem winstgevend vanwege de almaar stijgende olieprijs van ongeveer $90 per vat. De break-even prijs per vat ligt voor EOG Resources en Chevron respectievelijk rond de $30 en $45. Een groot deel van de vrije kasstroom is dus beschikbaar voor dividend en schuldvermindering. De grootste verliezer in januari was T. Rowe Price (-21.9%).
 
 <div class="chart-wrapper">
     <canvas id="weights" width="400" height="200" align="left">Deze grafiek wordt door jouw browser niet ondersteund.</canvas>
 </div>
-<script src="{{site.baseurl}}/assets/js/helper/common.js"></script>
-<script src="{{site.baseurl}}/assets/js/charts/2022-02-01-script.js"></script>
-<script src="{{site.baseurl}}/assets/js/helper/maandupdate.js"></script>
+<script src="{{site.baseurl}}/assets/js/helper/common.js" defer></script>
+<script src="{{site.baseurl}}/assets/js/charts/2022-02-01-script.js" defer></script>
+<script src="{{site.baseurl}}/assets/js/helper/maandupdate.js" defer></script>
 
 Hierna volgt een toelichting per aandeel.
 
@@ -176,10 +176,10 @@ Eind januari heb ik negen aankopen gedaan. Het jaarlijks te verwachten dividend 
 Het jaarlijks te verwachten dividend is 79.0% van de beoogde $4,000 in 2022. De voortgang ten aanzien van de overige [doelstellingen]({% link _pages/goals.md %}) staat in onderstaande tabel.
 
 | Doel     | Gerealiseerd | Doelstelling | Pct. |
-|----------| -------------| -------------| ----:|
-| Inleg    | $3,000       | $15,000      | 20%  |
-| Dividend | $299         | $3,200       | 9%   |
-| Opties   | $4,661       | $15,000      | 31%  |
+| -------- | ------------ | ------------ | ---: |
+| Inleg    | $3,000       | $15,000      |  20% |
+| Dividend | $299         | $3,200       |   9% |
+| Opties   | $4,661       | $15,000      |  31% |
 
 Tot slot geef ik een overzicht van de kasstromen eind januari:
 

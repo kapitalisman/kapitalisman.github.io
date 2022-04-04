@@ -6,13 +6,13 @@ description: Maandupdate Februari 2022
 author: sam
 month: februari
 categories:
-    - maandupdate
+  - maandupdate
 layout: post
 ---
 
 Terwijl ik deze maandupdate schrijf, doorbreekt mijn aandelen portefeuille de grens van $100.000. Een mooi moment, maar ik realiseer mij heel goed dat dit morgen weer anders kan zijn. Daarom stel ik ook geen [doelen]({% link _pages/goals.md %}) die afhankelijk zijn van de marktwaarde. Die is namelijk sterk afhankelijk van het sentiment op de beurs en dat ligt ver buiten mijn cirkel van invloed. Mijn doelen zijn gericht op zaken waar ik zelf controle over heb, en die tegelijkertijd de kans op een goed resultaat (lees: hogere marktwaarde) wel vergroten.
 
-Het is vanaf nu ook mogelijk om te [abonneren](https://mail.kapitalisman.nl/){:target="_blank"}{:rel="noopener noreferrer"} op mijn nieuwsbrief **Kapitalismail**. Dan ben je direct op de hoogte als er nieuwe content verschijnt.
+Het is vanaf nu ook mogelijk om te [abonneren](https://mail.kapitalisman.nl/){:target="\_blank"}{:rel="noopener noreferrer"} op mijn nieuwsbrief **Kapitalismail**. Dan ben je direct op de hoogte als er nieuwe content verschijnt.
 
 ## Update
 
@@ -67,21 +67,21 @@ In {{ page.month }} heb ik geen aandelen verkocht. Defensie aandelen zoals Lockh
 
 In de tabel hieronder staan mijn aankopen eind {{ page.month }}. Ik heb in beide bedrijven één keer eerder aandelen gekocht. Deze maand kon ik mijn posities verdubbelen beneden de kostprijs van mijn eerdere aankopen.
 
-| Aandeel            | Ticker | Aantal | Prijs   |
-|--------------------| -------| ------:| --------|
-| Texas Instruments  | TXN    | 6      | $168.75 |
-| Whirlpool          | WHR    | 5      | $199.47 |
+| Aandeel           | Ticker | Aantal | Prijs   |
+| ----------------- | ------ | -----: | ------- |
+| Texas Instruments | TXN    |      6 | $168.75 |
+| Whirlpool         | WHR    |      5 | $199.47 |
 
-Mijn portefeuille omvat nu 42 verschillende aandelen. De grootste daler deze maand was UGI (-15.2%). Ik ga dit aandeel de komende maand nauwlettend in de gaten houden, want het zou een goed moment kunnen zijn om bij te kopen. Aan de andere kant van het spectrum zitten L3Harris (+20.6%) en Lockheed Martin (+11.5%). Deze aandelen zijn hard gestegen sinds de [dag van de verdedigers van het vaderland](https://nl.wikipedia.org/wiki/Dag_van_de_verdedigers_van_het_vaderland){:target="_blank"}{:rel="noopener noreferrer"}. Het is natuurlijk wrang dat mijn portefeuille profiteert van de oorlog in Oekraïne. Tegelijkertijd is het juist mijn bedoeling om stabiele inkomsten te genereren, ongeacht de geopolitieke gebeurtenissen. Ik kijk daarbij vooral naar het dividend en alleen secundair naar thema's als milieu, maatschappij en goed ondernemingsbestuur. Het zogenaamde ESG-beleggen is van ondergeschikt belang.
+Mijn portefeuille omvat nu 42 verschillende aandelen. De grootste daler deze maand was UGI (-15.2%). Ik ga dit aandeel de komende maand nauwlettend in de gaten houden, want het zou een goed moment kunnen zijn om bij te kopen. Aan de andere kant van het spectrum zitten L3Harris (+20.6%) en Lockheed Martin (+11.5%). Deze aandelen zijn hard gestegen sinds de [dag van de verdedigers van het vaderland](https://nl.wikipedia.org/wiki/Dag_van_de_verdedigers_van_het_vaderland){:target="\_blank"}{:rel="noopener noreferrer"}. Het is natuurlijk wrang dat mijn portefeuille profiteert van de oorlog in Oekraïne. Tegelijkertijd is het juist mijn bedoeling om stabiele inkomsten te genereren, ongeacht de geopolitieke gebeurtenissen. Ik kijk daarbij vooral naar het dividend en alleen secundair naar thema's als milieu, maatschappij en goed ondernemingsbestuur. Het zogenaamde ESG-beleggen is van ondergeschikt belang.
 
 Tussen de twee hierboven genoemde defensie aandelen staat nog Nexstar Media (+11.9%). De grootste exploitant van televisiestations in Amerika bedient meer dan twee derde van de huishoudens in de Verenigde Staten. Ten tijde van oorlog, maar bijvoorbeeld ook tijdens verkiezingen, volgen meer van die huishoudens het nieuws. Deze toename van betrokkenheid vertaalt zich uiteindelijk in een hogere omzet.
 
 <div class="chart-wrapper">
     <canvas id="weights" width="400" height="200" align="left">Deze grafiek wordt door jouw browser niet ondersteund.</canvas>
 </div>
-<script src="{{site.baseurl}}/assets/js/helper/common.js"></script>
-<script src="{{site.baseurl}}/assets/js/charts/2022-03-04-script.js"></script>
-<script src="{{site.baseurl}}/assets/js/helper/maandupdate.js"></script>
+<script src="{{site.baseurl}}/assets/js/helper/common.js" defer></script>
+<script src="{{site.baseurl}}/assets/js/charts/2022-03-04-script.js" defer></script>
+<script src="{{site.baseurl}}/assets/js/helper/maandupdate.js" defer></script>
 
 Hierna volgt een toelichting per aandeel.
 
@@ -114,10 +114,10 @@ Eind {{ page.month }} heb ik twee aankopen gedaan. Het jaarlijks te verwachten d
 Het jaarlijks te verwachten dividend is 81.7% (was 79.0%) van de beoogde $4,000 in 2022. De voortgang ten aanzien van de overige [doelstellingen]({% link _pages/goals.md %}) staat in onderstaande tabel.
 
 | Doel     | Gerealiseerd | Doelstelling | Pct. |
-|----------| -------------| -------------| ----:|
-| Inleg    | $4,500       | $15,000      | 30%  |
-| Dividend | $428         | $3,200       | 13%  |
-| Opties   | $5,192       | $15,000      | 34%  |
+| -------- | ------------ | ------------ | ---: |
+| Inleg    | $4,500       | $15,000      |  30% |
+| Dividend | $428         | $3,200       |  13% |
+| Opties   | $5,192       | $15,000      |  34% |
 
 Tot slot geef ik een overzicht van de kasstromen eind {{ page.month }}:
 
