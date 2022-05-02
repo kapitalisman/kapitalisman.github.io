@@ -8,11 +8,27 @@ description: Mijn Dividend Portefeuille.
 <div class="row">
   <div class="col-md-12">
     <h2 class="double-u">Mijn Dividend Portefeuille</h2>
+
+    <h3>In tabelvorm (live)</h3>
     <div id="content-mobile">
       Niet beschikbaar op kleine schermen. Bekijk de desktop site.
     </div>
     <div class="sheets">
-      <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTpiJ4vMn4lsIVtOh4RxhvOl1pkQQ1GexMAbNsTmXuWLqLN6dU2jfFWPfsV5mRq5HW_YtJgir7Peb2R/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;headers=false&amp;range=A1:F47&amp;chrome=false"></iframe>
+      <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTpiJ4vMn4lsIVtOh4RxhvOl1pkQQ1GexMAbNsTmXuWLqLN6dU2jfFWPfsV5mRq5HW_YtJgir7Peb2R/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;headers=false&amp;range=A1:F51&amp;chrome=false"></iframe>
     </div>
   </div>
+
+  <div class="col-md-12">
+    <h3>Als grafiek (per eind april)</h3>
+    <div>
+      <canvas id="weights" width="400" height="200" align="left">Deze grafiek wordt door jouw browser niet ondersteund.</canvas>
+    </div>
+    <p>
+      <strong>Allocatie.</strong> Groen: minder dan 2%. Blauw: tussen 2% en 5%. Rood: meer dan 5%.
+    </p>
+  </div>
 </div>
+
+<script src="{{site.baseurl}}/assets/js/helper/common.js" defer></script>
+<script src="{{site.baseurl}}/assets/js/charts/2022-05-03-script.js" defer></script>
+<script src="{{site.baseurl}}/assets/js/helper/maandupdate.js" defer></script>
