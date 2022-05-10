@@ -151,17 +151,17 @@ Het jaarlijks te verwachten dividend is 88.9% (was 83.1%) van de beoogde $4,000 
 | Doel     | Gerealiseerd | Doelstelling | Pct. |
 | -------- | ------------ | ------------ | ---: |
 | Inleg    | $7,500       | $15,000      |  50% |
-| Dividend | $1,094       | $3,200       |  34% |
+| Dividend | $1,145       | $3,200       |  35% |
 | Opties   | $12,230      | $15,000      |  81% |
 
 Tot slot geef ik een overzicht van de kasstromen eind {{ page.month }}:
 
 <ul class="blog-list">
-  <li>Beschikbaar kapitaal: $321.14</li>
+  <li>Beschikbaar kapitaal: $372.90</li>
   <li>Inleg: $6,000.00</li>
   <li>Ontvangen dividend ({{ page.month }}): $331.77</li>
   <li>Deze maand geïnvesteerd: $6,557.19</li>
-  <li>Resterend kapitaal: $95.72</li>
+  <li>Resterend kapitaal: $147.48</li>
 </ul>
 
-Er is nu in totaal $101,353.50 geïnvesteerd, waarvan $2,949.22 herbelegd dividend. De portefeuille bestaat uit 49 aandelen met een marktwaarde van $108,357.12. In {{ page.month }} werd een rendement behaald van -3.37%.
+Er is nu in totaal $101,353.50 geïnvesteerd, waarvan $3,000.98 herbelegd dividend. De portefeuille bestaat uit 49 aandelen met een marktwaarde van $108,357.12. In {{ page.month }} werd een rendement behaald van -3.37%.

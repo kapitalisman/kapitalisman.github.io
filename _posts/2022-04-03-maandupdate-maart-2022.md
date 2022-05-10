@@ -16,9 +16,9 @@ Het is sinds vorige maand ook mogelijk om te [abonneren](https://mail.kapitalism
 
 ## Update
 
-Eind vorige maand bestond de portefeuille uit 42 aandelen met een marktwaarde van $99,003.29. Die is in {{ page.month }} met $3,134.23 in waarde gestegen, wat zich vertaalt in een rendement van 3.17%. Ter vergelijking: in dezelfde maand steeg de S&P 500 index van 4,373.94 naar 4,530.41, een toename van 3.58%.
+Eind vorige maand bestond de portefeuille uit 42 aandelen met een marktwaarde van $99,003.29. Die is in {{ page.month }} met $3,185.99 in waarde gestegen, wat zich vertaalt in een rendement van 3.22%. Ter vergelijking: in dezelfde maand steeg de S&P 500 index van 4,373.94 naar 4,530.41, een toename van 3.58%.
 
-Er is in {{ page.month }} $333.73 aan dividend ontvangen.
+Er is in {{ page.month }} $385.49 aan dividend ontvangen.
 
 <div class="blog-list">
   <table>
@@ -38,12 +38,13 @@ Er is in {{ page.month }} $333.73 aan dividend ontvangen.
       <tr><td><b>CI</b></td><td>&nbsp;24-03-2022</td><td>&nbsp;Dividend van</td><td>&nbsp;<b>5</b></td><td>&nbsp;aandelen:</td><td>&nbsp;$</td><td>5.60</td></tr>
       <tr><td><b>LHX</b></td><td>&nbsp;25-03-2022</td><td>&nbsp;Dividend van</td><td>&nbsp;<b>10</b></td><td>&nbsp;aandelen:</td><td>&nbsp;$</td><td>11.20</td></tr>
       <tr><td><b>LMT</b></td><td>&nbsp;25-03-2022</td><td>&nbsp;Dividend van</td><td>&nbsp;<b>6</b></td><td>&nbsp;aandelen:</td><td>&nbsp;$</td><td>16.80</td></tr>
+      <tr><td><b>SCHD</b></td><td>&nbsp;28-03-2022</td><td>&nbsp;Dividend van</td><td>&nbsp;<b>100</b></td><td>&nbsp;aandelen:</td><td>&nbsp;$</td><td>51.76</td></tr>
       <tr style="color: #0b5394;"><td><b>EOG</b></td><td>&nbsp;29-03-2022</td><td>&nbsp;Dividend van</td><td>&nbsp;<b>28</b></td><td>&nbsp;aandelen:</td><td>&nbsp;$</td><td>28.00</td></tr>
       <tr><td><b>TROW</b></td><td>&nbsp;30-03-2022</td><td>&nbsp;Dividend van</td><td>&nbsp;<b>20</b></td><td>&nbsp;aandelen:</td><td>&nbsp;$</td><td>24.00</td></tr>
       <tr><td><b>SLGN</b></td><td>&nbsp;31-03-2022</td><td>&nbsp;Dividend van</td><td>&nbsp;<b>70</b></td><td>&nbsp;aandelen:</td><td>&nbsp;$</td><td>11.20</td></tr>
       <tr><td><b>VST</b></td><td>&nbsp;31-03-2022</td><td>&nbsp;Dividend van</td><td>&nbsp;<b>118</b></td><td>&nbsp;aandelen:</td><td>&nbsp;$</td><td>20.06</td></tr>
 	  <tr><td></td><td></td><td></td><td></td><td></td><td></td><td><hr style="background-color:black"></td></tr>
-	  <tr><td></td><td></td><td></td><td></td><td></td><td>&nbsp;$</td><td>333.73</td></tr>
+	  <tr><td></td><td></td><td></td><td></td><td></td><td>&nbsp;$</td><td>385.49</td></tr>
     </tbody>
   </table>
 </div>
@@ -286,7 +287,7 @@ Het jaarlijks te verwachten dividend is 83.1% (was 81.7%) van de beoogde $4,000 
 | Doel     | Gerealiseerd | Doelstelling | Pct. |
 | -------- | ------------ | ------------ | ---: |
 | Inleg    | $6,000       | $15,000      |  40% |
-| Dividend | $762         | $3,200       |  23% |
+| Dividend | $813         | $3,200       |  25% |
 | Opties   | $7,325       | $15,000      |  48% |
 
 Tot slot geef ik een overzicht van de kasstromen eind {{ page.month }}:
@@ -294,9 +295,9 @@ Tot slot geef ik een overzicht van de kasstromen eind {{ page.month }}:
 <ul class="blog-list">
   <li>Beschikbaar kapitaal: $372.98</li>
   <li>Inleg: $3,500.00</li>
-  <li>Ontvangen dividend ({{ page.month }}): $333.73</li>
+  <li>Ontvangen dividend ({{ page.month }}): $385.49</li>
   <li>Deze maand geïnvesteerd: $3,885.57</li>
-  <li>Resterend kapitaal: $321.14</li>
+  <li>Resterend kapitaal: $372.90</li>
 </ul>
 
-Er is nu in totaal $94,796.31 geïnvesteerd, waarvan $2,617.45 herbelegd dividend. De portefeuille bestaat uit 45 aandelen met een marktwaarde van $105,689.36. In {{ page.month }} werd een rendement behaald van 3.17%.
+Er is nu in totaal $94,796.31 geïnvesteerd, waarvan $2,669.21 herbelegd dividend. De portefeuille bestaat uit 45 aandelen met een marktwaarde van $105,689.36. In {{ page.month }} werd een rendement behaald van 3.22%.
