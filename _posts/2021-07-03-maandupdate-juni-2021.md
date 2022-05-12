@@ -5,9 +5,7 @@ image: /assets/images/vultures.jpg
 description: Maandupdate Juni 2021
 author: sam
 categories:
-    - dividend
-    - aandelen
-    - maandupdate
+  - maandupdate
 layout: post
 ---
 
@@ -64,13 +62,13 @@ In juni heb ik geen aandelen verkocht.
 In de tabel hieronder staan mijn aankopen voor de maand juli. Daarnaast heb ik op 18 juni dus ook 100 aandelen SCHD gekocht tegen een koers van $74.35. Dit blijkt vooralsnog een uitstekende timing. Beleggers waren namelijk onrustig in de nasleep van de bestuursvergadering van de Amerikaanse centrale bank op woensdag 16 juni. Jerome Powell zei renteverhogingen te verwachten vanaf 2023 waardoor de beurzen donderdag en vooral vrijdag lager noteerden. Na het weekend herstelden de koersen vrijwel direct.
 
 | Aandeel            | Ticker | Aantal | Prijs   |
-|--------------------| -------| -------| --------|
+| ------------------ | ------ | ------ | ------- |
 | American Financial | AFG    | 4      | $124.09 |
 | Best Buy           | BBY    | 9      | $115.54 |
 | Boston Properties  | BXP    | 5      | $115.07 |
-| H&R Block          | HRB    | 24     |  $23.30 |
+| H&R Block          | HRB    | 24     | $23.30  |
 | Nexstar Media      | NXST   | 4      | $146.09 |
-| VICI Properties    | VICI   | 16     |  $31.14 |
+| VICI Properties    | VICI   | 16     | $31.14  |
 | Whirlpool          | WHR    | 5      | $217.93 |
 
 Mijn portefeuille omvat nu 40 verschillende aandelen. Veel meer heeft eigenlijk geen zin voor wat betreft diversificatie. Vistra Energy (+14.7%) stak deze maand met kop en schouders boven de rest uit. Merck (+5.9%) en American Tower (+5.8%) completeren de top drie. Snap-On (-12.3%) kon zijn goede reeks niet vasthouden en presteerde het minste in juni. Ook de financiële sector deed het slecht: Allstate (-4.5%), Aflac (-5.3%), South State Bank (-7.9%) en KeyBank (-10.4%) noteerde verliezen. Mede hierdoor gaat juni de boeken in als de eerste maand met een negatief rendement.

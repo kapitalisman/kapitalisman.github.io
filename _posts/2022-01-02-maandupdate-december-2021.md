@@ -5,9 +5,7 @@ image: /assets/images/fire.jpg
 description: Maandupdate December 2021
 author: sam
 categories:
-    - dividend
-    - aandelen
-    - maandupdate
+  - maandupdate
 layout: post
 ---
 
@@ -112,15 +110,15 @@ De laatstgenoemde dividendbetaling ontvang ik op 6 januari, ondanks deze verkoop
 
 In de tabel hieronder staan mijn aankopen eind december. De nadruk ligt op dividendgroei en niet zozeer op een hoog dividendrendement op kosten.
 
-| Aandeel            | Ticker | Aantal | Prijs   |
-|--------------------| -------| -------| --------|
-| Aflac              | AFL    | 6      | $58.74  |
-| Allstate           | ALL    | 8      | $117.83 |
-| Booz Allen         | BAH    | 6      | $85.45  |
-| Best Buy           | BBY    | 2      | $102.28 |
-| Nexstar Media      | NXST   | 6      | $152.03 |
-| Silgan Holdings    | SLGN   | 17     | $42.69  |
-| T. Rowe Price      | TROW   | 4      | $199.06 |
+| Aandeel         | Ticker | Aantal | Prijs   |
+| --------------- | ------ | ------ | ------- |
+| Aflac           | AFL    | 6      | $58.74  |
+| Allstate        | ALL    | 8      | $117.83 |
+| Booz Allen      | BAH    | 6      | $85.45  |
+| Best Buy        | BBY    | 2      | $102.28 |
+| Nexstar Media   | NXST   | 6      | $152.03 |
+| Silgan Holdings | SLGN   | 17     | $42.69  |
+| T. Rowe Price   | TROW   | 4      | $199.06 |
 
 Mijn portefeuille omvat nu 39 verschillende aandelen. Een kwart van de portefeuille steeg deze maand met meer dan 10%. De grootste stijgers waren Cigna (+19.7%) gevolgd door AbbVie (+17.5%). De verliezers in december waren Best Buy (-4.4%) en Oracle (-3.9%).
 

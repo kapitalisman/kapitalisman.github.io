@@ -5,9 +5,7 @@ image: /assets/images/regen.jpg
 description: Maandupdate November 2021
 author: sam
 categories:
-    - dividend
-    - aandelen
-    - maandupdate
+  - maandupdate
 layout: post
 ---
 
@@ -82,7 +80,7 @@ De laatstgenoemde dividendbetaling ontvang ik op 10 december, ondanks deze verko
 In de tabel hieronder staan mijn aankopen eind november.
 
 | Aandeel            | Ticker | Aantal | Prijs   |
-|--------------------| -------| -------| --------|
+| ------------------ | ------ | ------ | ------- |
 | American Financial | AFG    | 4      | $136.59 |
 | American Tower     | AMT    | 3      | $262.53 |
 | Best Buy           | BBY    | 12     | $105.03 |
@@ -102,7 +100,7 @@ Hierna volgt een toelichting per aandeel.
 
 ## Toelichting
 
-**American Financial** blijft met speciaal dividend strooien. Dit jaar is in totaal al $24 per aandeel uitbetaald. Het reguliere dividend komt daar nog 
+**American Financial** blijft met speciaal dividend strooien. Dit jaar is in totaal al $24 per aandeel uitbetaald. Het reguliere dividend komt daar nog
 eens bovenop. Ik had eerder dit jaar slechts 4 aandelen gekocht en dat aantal is met de aankoop van deze maand verdubbeld.
 
 <ul class="blog-list">

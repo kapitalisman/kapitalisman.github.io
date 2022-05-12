@@ -5,9 +5,7 @@ image: /assets/images/geboorte.jpg
 description: Maandupdate Januari 2021
 author: sam
 categories:
-    - dividend
-    - aandelen
-    - maandupdate
+  - maandupdate
 layout: post
 ---
 
@@ -32,12 +30,12 @@ Het doel is beslist niet om met deze strategie een beter totaal rendement te beh
 In de tabel hieronder staan mijn eerste aankopen. Ik heb posities in vijf aandelen uit vijf verschillende sectoren ingenomen. Een initiële positie is voor mij steeds ongeveer $2,000 groot. Ik streef naar een gelijkgewogen portefeuille van ten minste 25 aandelen zodat elk aandeel in beginsel niet meer dan 4% zal vertegenwoordigen.
 
 | Aandeel      | Ticker | Aantal | Prijs   |
-|--------------| -------| -------|---------|
-| Aflac        | AFL    | 44     |  $45.81 |
-| Chevron      | CVX    | 23     |  $87.02 |
-| Hormel Foods | HRL    | 22     |  $46.77 |
+| ------------ | ------ | ------ | ------- |
+| Aflac        | AFL    | 44     | $45.81  |
+| Chevron      | CVX    | 23     | $87.02  |
+| Hormel Foods | HRL    | 22     | $46.77  |
 | Snap-On      | SNA    | 11     | $186.03 |
-| AT&T         | T      | 70     |  $28.84 |
+| AT&T         | T      | 70     | $28.84  |
 
 In de grafiek is te zien dat elk aandeel nu ongeveer 22% vertegenwoordigt, uitgezonderd Hormel Foods. Natuurlijk wordt dit de komende maanden minder wanneer ik meer aankopen doe. Daarnaast zullen de verhoudingen ook verschuiven afhankelijk van de afzonderlijke rendementen. Een aandeel wat het relatief goed doet zal daardoor een groter deel van de portefeuille vertegenwoordigen.
 
@@ -84,7 +82,7 @@ Hierna volgt een toelichting per aandeel.
   <li>Aantal jaar dividendgroei: 11</li>
 </ul>
 
-**AT&T** levert wereldwijd telecommunicatie-, media- en technologiediensten. Hierbij moet je onder andere denken aan internet, televisie en (mobiele) telefonie. Daarnaast is AT&T eigenaar van WarnerMedia en diens streamingdienst HBO Max. Dit platform is vooralsnog alleen actief in de Verenigde Staten, maar gaat [dit jaar nog uitbreiden](https://www.prnewswire.com/news-releases/web-summit-hbo-max-to-expand-into-latin-america-and-europe-by-the-second-half-of-2021-301185785.html){:target="_blank"}{:rel="noopener noreferrer"} naar Latijns-Amerika en Europa. Het aandeel noteert momenteel erg goedkoop met een koers-winstverhouding van 9.
+**AT&T** levert wereldwijd telecommunicatie-, media- en technologiediensten. Hierbij moet je onder andere denken aan internet, televisie en (mobiele) telefonie. Daarnaast is AT&T eigenaar van WarnerMedia en diens streamingdienst HBO Max. Dit platform is vooralsnog alleen actief in de Verenigde Staten, maar gaat [dit jaar nog uitbreiden](https://www.prnewswire.com/news-releases/web-summit-hbo-max-to-expand-into-latin-america-and-europe-by-the-second-half-of-2021-301185785.html){:target="\_blank"}{:rel="noopener noreferrer"} naar Latijns-Amerika en Europa. Het aandeel noteert momenteel erg goedkoop met een koers-winstverhouding van 9.
 
 <ul class="blog-list">
   <li>Jaarlijks dividend: $145.60</li>

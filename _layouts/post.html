@@ -48,7 +48,7 @@ This layout is used for posts. Changing anything here will affect all posts (not
 					<div class="col-md-12">
 						<h1>{{page.title}}</h1>
 						<article>
-							{% include toc.html html=content class="toc.rev.clearfix" %}
+							{% include toc.html html=content class="toc.rev.clearfix" h_min=2 h_max=2 %}
 							{{content}}
 						</article>
 						{% if site.share %}

@@ -5,9 +5,7 @@ image: /assets/images/parrot.jpg
 description: Maandupdate Juli 2021
 author: sam
 categories:
-    - dividend
-    - aandelen
-    - maandupdate
+  - maandupdate
 layout: post
 ---
 
@@ -80,12 +78,12 @@ Ik heb in totaal een winst gemaakt van 22.0% op het oorspronkelijk geïnvesteerd
 
 In de tabel hieronder staan mijn aankopen eind juli.
 
-| Aandeel            | Ticker | Aantal | Prijs   |
-|--------------------| -------| -------| --------|
-| Best Buy           | BBY    | 9      | $114.72 |
-| Cigna              | CI     | 5      | $209.78 |
-| South State Bank   | SSB    | 16     |  $70.37 |
-| VICI Properties    | VICI   | 16     |  $31.45 |
+| Aandeel          | Ticker | Aantal | Prijs   |
+| ---------------- | ------ | ------ | ------- |
+| Best Buy         | BBY    | 9      | $114.72 |
+| Cigna            | CI     | 5      | $209.78 |
+| South State Bank | SSB    | 16     | $70.37  |
+| VICI Properties  | VICI   | 16     | $31.45  |
 
 Mijn portefeuille omvat nu 40 verschillende aandelen. Oracle (+12.0%), PepsiCo (+6.1%) en H&R Block (+5.3%) zijn in juli het meest in waarde gestegen. De grote verliezer was South State Bank (-15.8%).
 

@@ -5,9 +5,7 @@ image: /assets/images/duik.jpg
 description: Maandupdate Oktober 2021
 author: sam
 categories:
-    - dividend
-    - aandelen
-    - maandupdate
+  - maandupdate
 layout: post
 ---
 
@@ -69,13 +67,13 @@ In oktober heb ik geen aandelen verkocht. Als Oracle dit jaar boven de $100 note
 
 In de tabel hieronder staan mijn aankopen eind oktober.
 
-| Aandeel            | Ticker | Aantal | Prijs   |
-|--------------------| -------| -------| --------|
-| Amgen              | AMGN   | 5      | $206.07 |
-| Snap-On            | SNA    | 5      | $206.07 |
-| Vici Properties    | VICI   | 32     | $29.51  |
+| Aandeel         | Ticker | Aantal | Prijs   |
+| --------------- | ------ | ------ | ------- |
+| Amgen           | AMGN   | 5      | $206.07 |
+| Snap-On         | SNA    | 5      | $206.07 |
+| Vici Properties | VICI   | 32     | $29.51  |
 
-Mijn portefeuille omvat nog steeds 41 verschillende aandelen. Merck (+17.2%), Best Buy (+15.6%) en EOG Resources (+15.2%) zijn in oktober het meest in waarde gestegen. EOG Resources presteert nu twee maanden op rij erg goed. Dat in tegenstelling tot Pinnacle West (-10.9%). Dit gereguleerde nutsbedrijf kreeg begin oktober slecht nieuws: het maximaal toegestane rendement op eigen vermogen werd verlaagd van 10.0% naar 8.7%. Dat werd bepaald in een zogenoemde *rate case*. Nutsbedrijven zijn verplicht om een dergelijk proces elke drie jaar te doorlopen. Als gevolg van dit besluit neemt het risico op een dividendverlaging toe. Pinnacle West is met een ongerealiseerd verlies van $467 verreweg het slechtst presterende aandeel in mijn portefeuille. Het bedrijf presenteert op 5 november haar resultaten over het derde kwartaal en dan komt er waarschijnlijk ook meer informatie omtrent het dividendbeleid.
+Mijn portefeuille omvat nog steeds 41 verschillende aandelen. Merck (+17.2%), Best Buy (+15.6%) en EOG Resources (+15.2%) zijn in oktober het meest in waarde gestegen. EOG Resources presteert nu twee maanden op rij erg goed. Dat in tegenstelling tot Pinnacle West (-10.9%). Dit gereguleerde nutsbedrijf kreeg begin oktober slecht nieuws: het maximaal toegestane rendement op eigen vermogen werd verlaagd van 10.0% naar 8.7%. Dat werd bepaald in een zogenoemde _rate case_. Nutsbedrijven zijn verplicht om een dergelijk proces elke drie jaar te doorlopen. Als gevolg van dit besluit neemt het risico op een dividendverlaging toe. Pinnacle West is met een ongerealiseerd verlies van $467 verreweg het slechtst presterende aandeel in mijn portefeuille. Het bedrijf presenteert op 5 november haar resultaten over het derde kwartaal en dan komt er waarschijnlijk ook meer informatie omtrent het dividendbeleid.
 
 <div class="chart-wrapper">
     <canvas id="weights" width="400" height="200" align="left">Deze grafiek wordt door jouw browser niet ondersteund.</canvas>

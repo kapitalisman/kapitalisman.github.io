@@ -5,9 +5,7 @@ image: /assets/images/eerste.jpg
 description: Maandupdate Maart 2021
 author: sam
 categories:
-    - dividend
-    - aandelen
-    - maandupdate
+  - maandupdate
 layout: post
 ---
 
@@ -55,14 +53,14 @@ Door deze wijzigingen stijgt het jaarlijks te verwachten dividend van de portefe
 
 In de tabel hieronder staan mijn aankopen voor de maand april. Een initiële positie is voor mij steeds ongeveer $2,000 groot. Ik streef naar een gelijkgewogen portefeuille van ten minste 25 aandelen zodat elk aandeel in beginsel niet meer dan 4% zal vertegenwoordigen.
 
-| Aandeel            | Ticker | Aantal | Prijs   |
-|--------------------| -------| -------|---------|
-| AbbVie             | ABBV   | 5      | $109.02 |
-| Allstate           | ALL    | 9      | $115.47 |
-| EOG Resources      | EOG    | 5      |  $72.46 |
-| Merck              | MRK    | 8      |  $77.52 |
-| Oracle             | ORCL   | 6      |  $70.43 |
-| UGI                | UGI    | 29     |  $41.00 |
+| Aandeel       | Ticker | Aantal | Prijs   |
+| ------------- | ------ | ------ | ------- |
+| AbbVie        | ABBV   | 5      | $109.02 |
+| Allstate      | ALL    | 9      | $115.47 |
+| EOG Resources | EOG    | 5      | $72.46  |
+| Merck         | MRK    | 8      | $77.52  |
+| Oracle        | ORCL   | 6      | $70.43  |
+| UGI           | UGI    | 29     | $41.00  |
 
 Mijn portefeuille omvat nu precies 25 verschillende aandelen. Home Depot (+17.9%), Huntington Ingalls (+15.3%) en Snap-On (+13.6%) zijn in maart het meest in waarde gestegen. Snap-On staat daarmee voor de tweede maand op rij in de top 3. Dit aandeel vertegenwoordigt hierdoor op dit moment een groter deel van de portefeuille.
 

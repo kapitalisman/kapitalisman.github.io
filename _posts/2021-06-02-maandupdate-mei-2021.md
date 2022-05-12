@@ -5,9 +5,7 @@ image: /assets/images/veer.jpg
 description: Maandupdate Mei 2021
 author: sam
 categories:
-    - dividend
-    - aandelen
-    - maandupdate
+  - maandupdate
 layout: post
 ---
 
@@ -57,13 +55,13 @@ Vorige maand had ik de helft van mijn positie in **Home Depot** verkocht voor me
 
 In de tabel hieronder staan mijn aankopen voor de maand juni. Een initiële positie is voor mij steeds ongeveer $2,000 groot. Ik streef naar een gelijkgewogen portefeuille van ten minste 25 aandelen zodat elk aandeel in beginsel niet meer dan 4% zal vertegenwoordigen.
 
-| Aandeel            | Ticker | Aantal | Prijs    |
-|--------------------| -------| -------|----------|
-| AbbVie             | ABBV   | 10     |  $112.58 |
-| Booz Allen         | BAH    | 12     |   $84.83 |
-| Hewlett-Packard    | HPQ    | 17     |   $29.78 |
-| Kimberly-Clark     | KMB    |  8     |  $130.83 |
-| Merck              | MRK    | 14     |   $75.44 |
+| Aandeel         | Ticker | Aantal | Prijs   |
+| --------------- | ------ | ------ | ------- |
+| AbbVie          | ABBV   | 10     | $112.58 |
+| Booz Allen      | BAH    | 12     | $84.83  |
+| Hewlett-Packard | HPQ    | 17     | $29.78  |
+| Kimberly-Clark  | KMB    | 8      | $130.83 |
+| Merck           | MRK    | 14     | $75.44  |
 
 Mijn portefeuille omvat nu 32 verschillende aandelen. Bovendien is al het kapitaal nu geïnvesteerd. Dat betekent waarschijnlijk minder transacties in hierna volgende updates. EOG Resources (+9.1%), Iron Mountain (+8.5%) en Allstate (+7.7%) zijn in mei het meest in waarde gestegen. Zowel Iron Mountain als Allstate staan voor de tweede maand op rij in de top drie. Ook Snap-On (+7.2%) deed het wederom goed maar mist dus het podium.
 

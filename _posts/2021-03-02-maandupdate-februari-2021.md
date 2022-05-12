@@ -5,9 +5,7 @@ image: /assets/images/zestien.jpg
 description: Maandupdate Februari 2021
 author: sam
 categories:
-    - dividend
-    - aandelen
-    - maandupdate
+  - maandupdate
 layout: post
 ---
 
@@ -28,24 +26,24 @@ In de tabel hieronder staan mijn aankopen voor de maand maart. Een initiële pos
 Als ik een aandeel als meer risicovol beschouw of als het aandeel niet sterk ondergewaardeerd is, dan kies ik ervoor om in eerste instantie een kleinere positie in te nemen. Deze maand heb ik om die reden verschillende aankopen van $500 of $1,000 gedaan.
 
 | Aandeel            | Ticker | Aantal | Prijs   |
-|--------------------| -------| -------|---------|
+| ------------------ | ------ | ------ | ------- |
 | AbbVie             | ABBV   | 5      | $108.74 |
 | Amgen              | AMGN   | 9      | $226.79 |
 | American Tower     | AMT    | 5      | $218.63 |
 | Home Depot         | HD     | 8      | $258.86 |
 | Huntington Ingalls | HII    | 6      | $178.53 |
-| Iron Mountain      | IRM    | 29     |  $35.43 |
+| Iron Mountain      | IRM    | 29     | $35.43  |
 | Kimberly-Clark     | KMB    | 8      | $128.72 |
 | L3Harris           | LHX    | 6      | $185.43 |
 | Lockheed Martin    | LMT    | 6      | $334.06 |
-| Merck              | MRK    | 14     |  $73.11 |
-| ONEOK              | OKE    | 12     |  $45.87 |
-| Omnicom Group      | OMC    | 8      |  $69.49 |
+| Merck              | MRK    | 14     | $73.11  |
+| ONEOK              | OKE    | 12     | $45.87  |
+| Omnicom Group      | OMC    | 8      | $69.49  |
 | PepsiCo            | PEP    | 8      | $130.59 |
-| Silgan Holdings    | SLGN   | 53     |  $37.83 |
-| AT&T               | T      | 36     |  $28.18 |
+| Silgan Holdings    | SLGN   | 53     | $37.83  |
+| AT&T               | T      | 36     | $28.18  |
 | T. Rowe Price      | TROW   | 6      | $164.47 |
-| Vistra             | VST    | 118    |  $17.37 |
+| Vistra             | VST    | 118    | $17.37  |
 
 Mijn portefeuille omvat nu meer dan twintig verschillende aandelen. Elk aandeel vertegenwoordigt een veel kleiner deel van de totale portefeuille. Die spreiding is ook goed te zien in de grafiek. Chevron (+15.0%), Snap-On (+9.2%) en Aflac (+4.6%) zijn in februari flink in waarde gestegen. Deze aandelen vertegenwoordigen hierdoor op dit moment een groter deel van de portefeuille.
 
@@ -76,7 +74,7 @@ Hierna volgt een toelichting per aandeel.
   <li>Aantal jaar dividendgroei: 10</li>
 </ul>
 
-**American Tower** is een zogenaamd Real Estate Investment Trust (REIT). Dit type aandelen investeert in vastgoed en is verplicht om minimaal 90% van de inkomsten als dividend aan de aandeelhouders uit te keren. American Tower investeert in communicatietorens wereldwijd en verhoogt sinds 2012 [elk kwartaal](https://www.americantower.com/investor-relations/stock-information/dividend-history/){:target="_blank"}{:rel="noopener noreferrer"} het dividend. Het bedrijf genereert inkomsten door delen van de torens en de omliggende grond te verhuren.
+**American Tower** is een zogenaamd Real Estate Investment Trust (REIT). Dit type aandelen investeert in vastgoed en is verplicht om minimaal 90% van de inkomsten als dividend aan de aandeelhouders uit te keren. American Tower investeert in communicatietorens wereldwijd en verhoogt sinds 2012 [elk kwartaal](https://www.americantower.com/investor-relations/stock-information/dividend-history/){:target="\_blank"}{:rel="noopener noreferrer"} het dividend. Het bedrijf genereert inkomsten door delen van de torens en de omliggende grond te verhuren.
 
 <ul class="blog-list">
   <li>Jaarlijks dividend: $24.20</li>
@@ -124,7 +122,7 @@ Hierna volgt een toelichting per aandeel.
   <li>Aantal jaar dividendgroei: 19 / 19</li>
 </ul>
 
-**Merck** is een farmaceutisch bedrijf en onder andere actief op de gebieden oncologie, vaccins en stofwisselingsziekten, waaronder diabetes. Merck is er zelf niet in geslaagd een COVID-19 vaccin te ontwikkelen, maar [kondigde vandaag aan](https://www.merck.com/news/merck-to-help-produce-johnson-barda-to-provide-merck-with-funding-to-expand-mercks-manufacturing-capacity-for-covid-19-vaccines-and-medicines/){:target="_blank"}{:rel="noopener noreferrer"} Johnson & Johnson bij de productie van het Janssen-vaccin te ondersteunen. Zowel de winst als het dividend is de laatste twee jaar bovengemiddeld hard gegroeid, terwijl de koers niet of nauwelijks is gestegen. Het aandeel lijkt nu dus ondergewaardeerd.
+**Merck** is een farmaceutisch bedrijf en onder andere actief op de gebieden oncologie, vaccins en stofwisselingsziekten, waaronder diabetes. Merck is er zelf niet in geslaagd een COVID-19 vaccin te ontwikkelen, maar [kondigde vandaag aan](https://www.merck.com/news/merck-to-help-produce-johnson-barda-to-provide-merck-with-funding-to-expand-mercks-manufacturing-capacity-for-covid-19-vaccines-and-medicines/){:target="\_blank"}{:rel="noopener noreferrer"} Johnson & Johnson bij de productie van het Janssen-vaccin te ondersteunen. Zowel de winst als het dividend is de laatste twee jaar bovengemiddeld hard gegroeid, terwijl de koers niet of nauwelijks is gestegen. Het aandeel lijkt nu dus ondergewaardeerd.
 
 <ul class="blog-list">
   <li>Jaarlijks dividend: $36.40</li>
@@ -156,7 +154,7 @@ Hierna volgt een toelichting per aandeel.
   <li>Aantal jaar dividendgroei: 49</li>
 </ul>
 
-**Silgan Holdings** maakt verpakkingen voor consumptiegoederen van blik en plastic. Daarnaast is er een segment dat zich uitsluitend richt op sluitingen (doppen). Het dividendrendement is relatief laag, maar het bedrijf keert slechts 15% van de winst uit. Ik verwacht dan ook meer dividendverhogingen de komende jaren.	Hoewel het bedrijf in 2020 een stevige groei heeft laten zien, is er ook meer schuld aangegaan. Dit is een risico en daarom zal een deel van de vrije kasstroom moeten worden gebruikt om schulden af te lossen, waardoor er minder middelen overblijven voor het uitbetalen van dividend.
+**Silgan Holdings** maakt verpakkingen voor consumptiegoederen van blik en plastic. Daarnaast is er een segment dat zich uitsluitend richt op sluitingen (doppen). Het dividendrendement is relatief laag, maar het bedrijf keert slechts 15% van de winst uit. Ik verwacht dan ook meer dividendverhogingen de komende jaren. Hoewel het bedrijf in 2020 een stevige groei heeft laten zien, is er ook meer schuld aangegaan. Dit is een risico en daarom zal een deel van de vrije kasstroom moeten worden gebruikt om schulden af te lossen, waardoor er minder middelen overblijven voor het uitbetalen van dividend.
 
 <ul class="blog-list">
   <li>Jaarlijks dividend: $29.68</li>
@@ -180,7 +178,7 @@ Hierna volgt een toelichting per aandeel.
   <li>Aantal jaar dividendgroei: 35</li>
 </ul>
 
-**Vistra** is het laatste maar zeker niet minste aandeel van deze maand. Dit nutsbedrijf levert electriciteit en aardgas aan huishoudens en bedrijven. Vistra is vorige maand in de problemen gekomen door [extreem winterweer](https://nos.nl/artikel/2368885-miljoenen-texanen-zonder-stroom-tijdens-extreem-winterweer){:target="_blank"}{:rel="noopener noreferrer"} in de staat Texas. Als gevolg daarvan heeft het aandeel vrijdag, ondanks de aangekondigde dividend verhoging, een kwart van zijn waarde verloren. Dat is wat mij betreft een overdreven reactie van de markt en ik heb die kans aangegrepen om het aandeel op te nemen in mijn portefeuille.
+**Vistra** is het laatste maar zeker niet minste aandeel van deze maand. Dit nutsbedrijf levert electriciteit en aardgas aan huishoudens en bedrijven. Vistra is vorige maand in de problemen gekomen door [extreem winterweer](https://nos.nl/artikel/2368885-miljoenen-texanen-zonder-stroom-tijdens-extreem-winterweer){:target="\_blank"}{:rel="noopener noreferrer"} in de staat Texas. Als gevolg daarvan heeft het aandeel vrijdag, ondanks de aangekondigde dividend verhoging, een kwart van zijn waarde verloren. Dat is wat mij betreft een overdreven reactie van de markt en ik heb die kans aangegrepen om het aandeel op te nemen in mijn portefeuille.
 
 <ul class="blog-list">
   <li>Jaarlijks dividend: $70.80</li>

@@ -5,9 +5,7 @@ image: /assets/images/energie.jpg
 description: Maandupdate September 2021
 author: sam
 categories:
-    - dividend
-    - aandelen
-    - maandupdate
+  - maandupdate
 layout: post
 ---
 
@@ -69,10 +67,10 @@ In september heb ik geen aandelen verkocht.
 
 In de tabel hieronder staan mijn aankopen eind september.
 
-| Aandeel            | Ticker | Aantal | Prijs   |
-|--------------------| -------| -------| --------|
-| AbbVie             | ABBV   | 8      | $110.41 |
-| STORE Capital      | STOR   | 32     |  $32.78 |
+| Aandeel       | Ticker | Aantal | Prijs   |
+| ------------- | ------ | ------ | ------- |
+| AbbVie        | ABBV   | 8      | $110.41 |
+| STORE Capital | STOR   | 32     | $32.78  |
 
 Mijn portefeuille omvat nu 41 verschillende aandelen. EOG Resources (+18.9%), ONEOK (+10.4%) en South State Bank (+8.9%) zijn in september het meest in waarde gestegen. De verliezers gingen allemaal met meer dan 10% onderuit: T Rowe Price (-12.1%), AbbVie (-10.7%) en Vistra Energy (-10.4%).
 

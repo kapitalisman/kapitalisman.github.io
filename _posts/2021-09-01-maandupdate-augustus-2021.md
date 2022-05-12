@@ -5,9 +5,7 @@ image: /assets/images/vogelvoer.jpg
 description: Maandupdate Augustus 2021
 author: sam
 categories:
-    - dividend
-    - aandelen
-    - maandupdate
+  - maandupdate
 layout: post
 ---
 
@@ -103,17 +101,16 @@ Het aandeel AT&T is sinds de daling in mei verder weggezakt. Toen werd de verkoo
   </table>
 </div>
 
-
 ## Aankopen
 
 In de tabel hieronder staan mijn aankopen eind augustus. Best Buy vervangt Home Depot, Tyson Foods is mijn alternatief voor Hormel Foods en JEPI (JPMorgan Equity Premium Income ETF) doet het hopelijk beter dan AT&T.
 
 | Aandeel            | Ticker | Aantal | Prijs   |
-|--------------------| -------| -------| --------|
+| ------------------ | ------ | ------ | ------- |
 | Best Buy           | BBY    | 8      | $113.00 |
-| Premium Income ETF | JEPI   | 50     |  $61.18 |
-| Tyson Foods        | SSB    | 25     |  $79.73 |
-| VICI Properties    | VICI   | 36     |  $29.45 |
+| Premium Income ETF | JEPI   | 50     | $61.18  |
+| Tyson Foods        | SSB    | 25     | $79.73  |
+| VICI Properties    | VICI   | 36     | $29.45  |
 
 Mijn portefeuille omvat nog steeds 40 verschillende aandelen. T Rowe Price (+9.7%), Iron Mountain (+9.1%) en American Financial Group (+5.8%) zijn in augustus het meest in waarde gestegen. De verliezers waren Amgen (-6.6%), EOG (-7.3%) en Pinnacle West (-8.0%).
 

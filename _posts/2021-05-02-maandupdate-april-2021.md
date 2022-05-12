@@ -5,9 +5,7 @@ image: /assets/images/update.jpg
 description: Maandupdate April 2021
 author: sam
 categories:
-    - dividend
-    - aandelen
-    - maandupdate
+  - maandupdate
 layout: post
 ---
 
@@ -73,13 +71,13 @@ Ik heb in totaal een winst gemaakt van 25.2% op het oorspronkelijk geïnvesteerd
 
 In de tabel hieronder staan mijn aankopen voor de maand mei. Een initiële positie is voor mij steeds ongeveer $2,000 groot. Ik streef naar een gelijkgewogen portefeuille van ten minste 25 aandelen zodat elk aandeel in beginsel niet meer dan 4% zal vertegenwoordigen.
 
-| Aandeel            | Ticker | Aantal | Prijs   |
-|--------------------| -------| -------|---------|
-| ConAgra Brands     | CAG    | 28     |  $36.85 |
-| KeyBank            | KEY    | 46     |  $22.01 |
-| Pinnacle West      | PNW    | 25     |  $83.16 |
-| South State Bank   | SSB    | 12     |  $85.47 |
-| TC Energy          | TRP    | 41     |  $49.53 |
+| Aandeel          | Ticker | Aantal | Prijs  |
+| ---------------- | ------ | ------ | ------ |
+| ConAgra Brands   | CAG    | 28     | $36.85 |
+| KeyBank          | KEY    | 46     | $22.01 |
+| Pinnacle West    | PNW    | 25     | $83.16 |
+| South State Bank | SSB    | 12     | $85.47 |
+| TC Energy        | TRP    | 41     | $49.53 |
 
 Mijn portefeuille omvat nu 30 verschillende aandelen. Bovendien is bijna al het kapitaal nu geïnvesteerd. Dat betekent waarschijnlijk minder transacties in hierna volgende updates. Omnicon (+10.9%), Allstate (+9.8%) en Iron Mountain (+8.4%) zijn in april het meest in waarde gestegen.
 
