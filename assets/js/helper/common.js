@@ -1,5 +1,5 @@
-function numFormat(n, currency) {
-	return currency + n.toFixed(0).replace(/./g, function (c, i, a) {
+function numFormat(n, currency, dec = 0) {
+	return currency + n.toFixed(dec).replace(/./g, function (c, i, a) {
 		return i > 0 && c !== "." && (a.length - i) % 3 === 0 ? "," + c : c;
 	});
 }
