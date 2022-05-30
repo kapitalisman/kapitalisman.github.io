@@ -78,8 +78,6 @@ var dividendHistoryOptions = {
 	}
 }
 
-
-
 var dividendHistoryCtx = document.getElementById('dividendHistory');
 
 var dividendHistoryConfig = {

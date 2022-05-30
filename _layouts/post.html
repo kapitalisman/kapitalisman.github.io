@@ -44,6 +44,8 @@ This layout is used for posts. Changing anything here will affect all posts (not
 					</div>
 				</div>
 
+				<script src="{{site.baseurl}}/assets/js/helper/common.js" defer></script>
+
 				<div class="row">
 					<div class="col-md-12">
 						<h1>{{page.title}}</h1>
@@ -75,7 +77,8 @@ This layout is used for posts. Changing anything here will affect all posts (not
 			</div>
 		</div>
 	</main>
-	<script>
+	
+	<script defer>
 		document.addEventListener('DOMContentLoaded', function () {
 			let disqus = document.getElementById('disqus_thread');
 

@@ -37,8 +37,34 @@ Bij gelijkblijvend jaarlijks dividend vertaalt een hogere koers zich in een lage
 
 Dividendgroei meet de verandering van het jaarlijks dividend in de loop van de tijd. In 2017 bedroeg het jaarlijks dividend van T. Rowe Price nog maar $2.28. In vijf jaar tijd is het dividend dus meer dan verdubbeld. De dividendgroei over deze periode is 16% per jaar. Het bedrijf verhoogt het dividend echter al sinds 1986. De grafiek hieronder laat goed zien wat dividendgroei is.
 
-{% include chart.html id="dividendHistory" script="strategy/2022-06-01-script" %}
+{% include chart.html id="dividendHistory" script="strategy/2022-06-01-dividend-history" %}
 
 Bedrijven die minstens vijf jaar het dividend verhogen worden gecategoriseerd als champions (25+), contenders (10+) en challengers (5+). Daarnaast bestaan er ook nog kings (50+), aristocrats (25+) en achievers (10+). Om in de aristocrats of achievers te worden opgenomen gelden additionele eisen omtrent marktkapitalisatie en liquiditeit.
 
+Een handig overzicht van dividendgroei aandelen is [Dividend Radar](https://www.portfolio-insight.com/dividend-radar){:target="\_blank"}. Dit overzicht bevat veel datapunten en wordt wekelijks op vrijdag bijgewerkt. Een bedrijf moet minstens vijf jaar het dividend verhogen om in de lijst te worden opgenomen.
+
 ## Het sneeuwbaleffect
+
+De basisprincipes zijn nu bekend. Door te beleggen in dividendgroei creëer je een stroom van passieve inkomsten. Dat passief inkomen groeit bovendien elk jaar, zelfs als je niet meer zou inleggen. Echter, wanneer het uitgekeerde dividend, eventueel aangevuld met maandelijkse stortingen, opnieuw belegd wordt, dan ontstaat een enorm sneeuwbaleffect.
+
+Stel je belegt $10,000 in een aandeel met een dividendrendement van 3.5%. Het dividend groeit jaarlijks met 7.0%. In het eerste jaar wordt dan $350 dividend uitgekeerd en na tien jaar kan je $689 dividend verwachten. Maar wanneer je het uitgekeerde dividend jaarlijks zou herbeleggen in ditzelfde aandeel, dan kan je na tien jaar maar liefst $950 dividend verwachten.
+
+{% include chart.html id="dividendProjection" script="strategy/2022-06-01-dividend-projection" %}
+
+Dit rente-op-rente effect werd door Albert Einstein het achtste wereldwonder genoemd. Het effect is groter naarmate het langer werkt. Na twintig jaar kan je in bovenstaand voorbeeld al meer dan $2,500 dividend verwachten. Daarom loont het om al vroeg te beginnen met beleggen in dividendgroei. Hoe eerder je begint, hoe langer de sneeuwbal kan doorrollen.
+
+> Compound interest is the eighth wonder of the world. He who understands it, earns it; he who doesn't, pays it. - <cite>Albert Einstein</cite>
+
+Bovenstaand voorbeeld gaat uit van een eenmalige inleg. Door maandelijks in te leggen groeit de sneeuwbal nog harder. Dit helpt het meest als de sneeuwbal nog klein is.
+
+### Een planning maken
+
+Er zijn verschillende componenten die het toekomstig inkomen bepalen. Daarom kan het handig zijn om deze op een rijtje te zetten en een planning te maken.
+
+- Startkapitaal
+- Periodieke inleg
+- Dividend yield
+- Dividendgroei
+- Beleggingshorizon (tijd)
+
+Door het inkomen over zeg vijftien jaar uit te rekenen, kan je de uitkomst vergelijken met jouw persoonlijke doelstelling. Op die manier kan je ook inschatten hoe realistisch dat doel is. Bovendien kan je zo jaarlijks vaststellen of je nog op schema zit of dat bijsturen nodig is om jouw doel te bereiken.
