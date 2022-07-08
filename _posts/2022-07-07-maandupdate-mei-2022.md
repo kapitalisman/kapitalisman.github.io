@@ -137,6 +137,8 @@ In de tabel hieronder staan mijn aankopen eind {{ page.month }}.
 
 Mijn portefeuille omvat nu 49 verschillende aandelen. Het overzicht met de volledige [portefeuille]({% link _pages/portfolio.html %}) is bijgewerkt met bovenstaande transacties.
 
+Door deze aankopen stijgt het jaarlijks te verwachten dividend van de portefeuille met $244.46.
+
 ## Opties
 
 In {{ page.month }} heb ik netto $2,946 aan optie premies ontvangen. Er is $2,463 aan inkomsten veilig gesteld. Er zijn dan geen contractuele verplichtingen meer.

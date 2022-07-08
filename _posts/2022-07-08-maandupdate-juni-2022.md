@@ -100,10 +100,14 @@ In de tabel hieronder staan mijn aankopen eind {{ page.month }}.
 
 | Aandeel             | Ticker | Aantal | Prijs   |
 | ------------------- | ------ | -----: | ------- |
+| Ally Bank           | ALLY   |     20 | $35.08  |
 | JPMorgan Chase      | JPM    |     10 | $112.00 |
 | Texas Instruments   | TXN    |      8 | $151.75 |
+| Whirlpool           | WHR    |      6 | $161.60 |
 
 Mijn portefeuille omvat nu 49 verschillende aandelen. Het overzicht met de volledige [portefeuille]({% link _pages/portfolio.html %}) is bijgewerkt met bovenstaande transacties.
+
+Door deze aankopen stijgt het jaarlijks te verwachten dividend van de portefeuille met $142.80.
 
 ## Opties
 
@@ -111,7 +115,7 @@ In {{ page.month }} heb ik netto $2,809 aan optie premies ontvangen. Er is $3,98
 
 ## Samenvatting
 
-Eind {{ page.month }} heb ik twee aankopen gedaan en één aandeel verkocht. Het jaarlijks te verwachten dividend is nu $3,796.01 en het dividendrendement op kosten 3.68% (was 3.64%).
+Eind {{ page.month }} heb ik vier aankopen gedaan en één aandeel verkocht. Het jaarlijks te verwachten dividend is nu $3,862.01 en het dividendrendement op kosten 3.68% (was 3.64%).
 
 Tot slot geef ik een overzicht van de kasstromen eind {{ page.month }}:
 
@@ -119,8 +123,8 @@ Tot slot geef ik een overzicht van de kasstromen eind {{ page.month }}:
   <li>Beschikbaar kapitaal: $98.87</li>
   <li>Inleg: $2,500.00</li>
   <li>Ontvangen dividend ({{ page.month }}): $465.47</li>
-  <li>Deze maand geïnvesteerd: $1,312.14</li>
-  <li>Resterend kapitaal: $1,752.20</li>
+  <li>Deze maand geïnvesteerd: $2,983.26</li>
+  <li>Resterend kapitaal: $81.08</li>
 </ul>
 
-Er is nu in totaal $106,928.40 geïnvesteerd, waarvan $3,680.60 herbelegd dividend. De portefeuille bestaat uit 49 aandelen met een marktwaarde van $109,498.79. In {{ page.month }} werd een rendement behaald van -7.51%.
+Er is nu in totaal $108,599.52 geïnvesteerd, waarvan $3,680.60 herbelegd dividend. De portefeuille bestaat uit 49 aandelen met een marktwaarde van $111,169.91. In {{ page.month }} werd een rendement behaald van -7.51%.
