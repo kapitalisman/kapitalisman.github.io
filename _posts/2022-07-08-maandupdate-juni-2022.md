@@ -69,7 +69,7 @@ In {{ page.month }} heb ik aandelen **Merck** verkocht. Door de stijging van rui
 
 <div class="blog-list">
   <table>
-    <caption style="caption-side: top;">Chevron</caption>
+    <caption style="caption-side: top;">Merck</caption>
     <tbody>
       <tr style="color: #6aa84f;"><td>01-03-2021</td><td>&nbsp;Aankoop van <b>4</b> aandelen voor <b>$73.11</b> per aandeel:</td><td>&nbsp;$</td><td>292.43</td></tr>
       <tr style="color: #6aa84f;"><td>31-03-2021</td><td>&nbsp;Aankoop van <b>3</b> aandelen voor <b>$77.52</b> per aandeel:</td><td>&nbsp;$</td><td>232.55</td></tr>
