@@ -65,10 +65,7 @@ Door deze wijziging stijgt het jaarlijks te verwachten dividend van de portefeui
 
 ## Verkopen
 
-In {{ page.month }} heb ik aandelen **Merck** verkocht.
-
-
-Sell	07-07-2022	-1,021.85
+In {{ page.month }} heb ik aandelen **Merck** verkocht. Door de stijging van ruim twintig procent dit jaar is het dividendrendement gezakt tot onder de 3.0%. Historisch gezien is dat een goed moment om te verkopen.
 
 <div class="blog-list">
   <table>
