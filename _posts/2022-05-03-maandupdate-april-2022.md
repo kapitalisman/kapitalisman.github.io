@@ -144,7 +144,7 @@ In {{ page.month }} heb ik zeven nieuwe posities geopend, geen posities doorgero
 
 ## Samenvatting
 
-Eind {{ page.month }} heb ik zeven aankopen gedaan. Het jaarlijks te verwachten dividend is nu $3,555.91 en het dividendrendement op kosten 3.61% (was 3.61%).
+Eind {{ page.month }} heb ik zeven aankopen gedaan. Het jaarlijks te verwachten dividend is nu $3,555.91 en het dividendrendement op kosten 3.62% (was 3.61%).
 
 Het jaarlijks te verwachten dividend is 88.9% (was 83.1%) van de beoogde $4,000 in 2022. De voortgang ten aanzien van de overige [doelstellingen]({% link _pages/goals.md %}) staat in onderstaande tabel.
 
